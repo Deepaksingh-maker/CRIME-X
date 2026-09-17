@@ -146,5 +146,4 @@ python -m pytest -q
 2. **District Crime Rates**: District population figures are not provided in the standard NCRB district snapshot; district maps display actual crime counts, and rates are clearly marked as unavailable.
 3. **Police vs Administrative Boundaries**: Certain specialized police jurisdictions (e.g., Railway Police, Commissionerate divisions) lack discrete administrative boundary polygons and appear in the diagnostic unmatched counts.
 4. **TTS Interface**: Text-to-speech is configured as an optional/unconfigured interface in local environments without dedicated audio drivers.
-#   C R I M E - X  
- 
+#
