@@ -1,0 +1,50 @@
+Sl. No.,Crime Head,Cases Pending Trial from the Previous Year - Col.(3),Cases Sent for Trial during the year - Col.(4),Total Cases for Trial (Col.3+Col.4) - Col.(5),Cases Abated by Court - Col.(6),Cases Withdrawn from Prosecution - Col.(7),Cases Compounded or Compromised - Col.(8),Cases Disposed off by Plea Bargaining - Col.(9),Cases Quashed - Col.(10),Cases Disposed off without trial (Col.6+Col.7+Col.8+Col.9+Col.10) - Col.(11),Cases Stayed or Sent to Record Room - Col.(12),Cases Convicted Out of Cases from Previous Year - Col.(13),Cases Convicted Out of Cases during the Year - Col.(14),Cases Convicted (Col.13+Col.14) - Col.(15),Cases Discharged - Col.(16),Cases Acquitted - Col.(17),Cases in which Trials were Completed (Col.15+Col.16+Col.17) - Col.(18),Cases Disposed off by Courts (Col.11+Col.18) - Col.(19),Cases Pending Trial at End of the Year (Col.5-Col.19) - Col.(20),Conviction Rate (Col.15/Col.18)*100 - Col.(21),Pendency Percentage (Col.20/Col.5)*100 - Col.(22)
+1A,SC/ST (Prevention of Atrocities) Act,205986,42026,248012,57,10,0,0,68,135,14,4530,346,4876,639,8619,14134,14269,233743,34.5,94.2
+1A.1,Murder,5254,851,6105,6,0,0,0,0,6,0,187,5,192,7,141,340,346,5759,56.5,94.3
+1A.2,Attempt to Commit Murder,3808,1065,4873,0,0,0,0,0,0,0,51,2,53,8,217,278,278,4595,19.1,94.3
+1A.3,Simple Hurt,67334,15123,82457,17,2,0,0,16,35,12,949,85,1034,182,3218,4434,4469,77988,23.3,94.6
+1A.4,Grievous Hurt,11682,1163,12845,0,0,0,0,5,5,0,99,2,101,5,179,285,290,12555,35.4,97.7
+1A.4A,Grievous Hurt,11523,1148,12671,0,0,0,0,5,5,0,99,2,101,5,177,283,288,12383,35.7,97.7
+1A.4B,Acid Attack,10,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,NA,100
+1A.4C,Attempt to Acid Attack,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,NA,100
+1A.4D,Other Grievous Hurt,144,14,158,0,0,0,0,0,0,0,0,0,0,0,2,2,2,156,0,98.7
+1A.5,Assault on Women with Intent to Outrage her Modesty,14359,3341,17700,9,0,0,0,4,13,0,326,13,339,30,717,1086,1099,16601,31.2,93.8
+1A.5A,Assault on Women,12791,2679,15470,8,0,0,0,4,12,0,262,11,273,29,604,906,918,14552,30.1,94.1
+1A.5A.1,Assault on Women with Intent to Outrage her Modesty,7136,1675,8811,6,0,0,0,3,9,0,178,9,187,22,418,627,636,8175,29.8,92.8
+1A.5A.2,Sexual Harassment,3451,588,4039,1,0,0,0,1,2,0,57,1,58,4,124,186,188,3851,31.2,95.3
+1A.5A.3,Assault or use of Criminal Force on women with intent to Disrobe,1167,240,1407,1,0,0,0,0,1,0,17,1,18,1,26,45,46,1361,40,96.7
+1A.5A.4,Voyeurism,168,27,195,0,0,0,0,0,0,0,1,0,1,0,4,5,5,190,20,97.4
+1A.5A.5,Stalking,869,149,1018,0,0,0,0,0,0,0,9,0,9,2,32,43,43,975,20.9,95.8
+1A.5B,Assault of Children,1568,662,2230,1,0,0,0,0,1,0,64,2,66,1,113,180,181,2049,36.7,91.9
+1A.6,Insult to the Modesty of Women,435,156,591,0,0,0,0,0,0,0,3,0,3,0,66,69,69,522,4.3,88.3
+1A.7,Kidnapping and Abduction,3897,793,4690,0,0,0,0,1,1,0,90,2,92,18,95,205,206,4484,44.9,95.6
+1A.7A,Kidnapping and Abduction,1336,435,1771,0,0,0,0,1,1,0,22,0,22,1,35,58,59,1712,37.9,96.7
+1A.7A.1,Missing Children Deemed as Kidnapped,257,209,466,0,0,0,0,1,1,0,3,0,3,0,8,11,12,454,27.3,97.4
+1A.7A.2,Other Kidnapping and Abduction,1079,226,1305,0,0,0,0,0,0,0,19,0,19,1,27,47,47,1258,40.4,96.4
+1A.7B,Kidnapping and Abduction for the Purpose of Begging,9,6,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,NA,100
+1A.7C,Kidnapping and Abduction in order to Murder,38,1,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,NA,100
+1A.7D,Kidnapping for Ransom,13,6,19,0,0,0,0,0,0,0,0,0,0,0,2,2,2,17,0,89.5
+1A.7E,Kidnapping and Abduction of Women to compel her for marriage,1852,261,2113,0,0,0,0,0,0,0,63,2,65,13,37,115,115,1998,56.5,94.6
+1A.7F,Procuration of Minor Girls,74,17,91,0,0,0,0,0,0,0,1,0,1,0,6,7,7,84,14.3,92.3
+1A.7G,Other Kidnapping and Abducion,575,67,642,0,0,0,0,0,0,0,4,0,4,4,15,23,23,619,17.4,96.4
+1A.8,Rape,16441,3754,20195,12,0,0,0,5,17,1,579,11,590,36,884,1510,1527,18668,39.1,92.4
+1A.8A,Rape of Women,12316,2346,14662,4,0,0,0,4,8,1,436,6,442,33,591,1066,1074,13588,41.5,92.7
+1A.8B,Rape of Children,4125,1408,5533,8,0,0,0,1,9,0,143,5,148,3,293,444,453,5080,33.3,91.8
+1A.9,Attempt to Commit Rape,423,51,474,0,0,0,0,0,0,0,8,0,8,0,10,18,18,456,44.4,96.2
+1A.10,Riots,6622,780,7402,0,0,0,0,1,1,0,51,5,56,2,298,356,357,7045,15.7,95.2
+1A.11,Robbery,422,44,466,0,0,0,0,0,0,0,9,0,9,1,11,21,21,445,42.9,95.5
+1A.12,Dacoity,232,6,238,0,0,0,0,0,0,0,2,0,2,0,2,4,4,234,50,98.3
+1A.12A,Dacoity with Murder,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,NA,100
+1A.12B,Dacoity,228,6,234,0,0,0,0,0,0,0,2,0,2,0,2,4,4,230,50,98.3
+1A.13,Arson,1119,135,1254,0,0,0,0,0,0,0,9,3,12,3,13,28,28,1226,42.9,97.8
+1A.14,Criminal Intimidation,15629,4498,20127,6,0,0,0,11,17,0,235,3,238,66,826,1130,1147,18980,21.1,94.3
+1A.15,Other IPC crimes,58329,10266,68595,7,8,0,0,25,40,1,1932,215,2147,281,1942,4370,4410,64185,49.1,93.6
+1B,SC / ST (Prevention of Atrocities) Act only,47316,3789,51105,11,12,0,0,18,41,5,400,353,753,56,1570,2379,2420,48685,31.7,95.3
+1B.1,Intentionally Insult or Intimidate with Intent to Humiliate,28808,1402,30210,3,12,0,0,12,27,5,188,166,354,29,526,909,936,29274,38.9,96.9
+1B.2,Occupy/Disposes Land Belongs to SCs/STs,760,27,787,1,0,0,0,2,3,0,2,0,2,1,8,11,14,773,18.2,98.2
+1B.3,Prevent or deny or obstruct usage of public place/passage,197,223,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,420,NA,100
+1B.4,Force to leave place of Residence/Social Boycott,49,6,55,0,0,0,0,0,0,0,0,0,0,0,4,4,4,51,0,92.7
+1B.5,Other Offences,17502,2131,19633,7,0,0,0,4,11,0,210,187,397,26,1032,1455,1466,18167,27.3,92.5
+1,Total of SC/ST (Prevention of Atrocities) Act,253302,45815,299117,68,22,0,0,86,176,19,4930,699,5629,695,10189,16513,16689,282428,34.1,94.4
+2,Protection of Civil Rights Act,1174,12,1186,0,0,0,0,0,0,0,0,0,0,0,25,25,25,1161,0,97.9
+Crime/Atrocities against SCs,Crime/Atrocities against SCs,254476,45827,300303,68,22,0,0,86,176,19,4930,699,5629,695,10214,16538,16714,283589,34,94.4

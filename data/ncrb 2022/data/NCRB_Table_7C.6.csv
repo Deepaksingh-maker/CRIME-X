@@ -1,0 +1,40 @@
+Sl. No.,State/UT,Cases Pending Trial from the Previous Year - Col.(3),Cases Sent for Trial during the year - Col.(4),Total Cases for Trial (Col.3+Col.4) - Col.(5),Cases Abated by Court - Col.(6),Cases Withdrawn from Prosecution - Col.(7),Cases Compounded or Compromised - Col.(8),Cases Disposed off by Plea Bargaining - Col.(9),Cases Quashed - Col.(10),Cases Disposed off without trial (Col.6+Col.7+Col.8+Col.9+Col.10) - Col.(11),Cases Stayed or Sent to Record Room - Col.(12),Cases Convicted Out of Cases from Previous Year - Col.(13),Cases Convicted Out of Cases during the Year - Col.(14),Cases Convicted (Col.13+Col.14) - Col.(15),Cases Discharged - Col.(16),Cases Acquitted - Col.(17),Cases in which Trials were Completed (Col.15+Col.16+Col.17) - Col.(18),Cases Disposed off by Courts (Col.11+Col.18) - Col.(19),Cases Pending Trial at End of the Year (Col.5-Col.19) - Col.(20),Conviction Rate (Col.15/Col.18)*100 - Col.(21),Pendency Percentage (Col.20/Col.5)*100 - Col.(22)
+1,Andhra Pradesh,1179,280,1459,3,0,0,0,1,4,0,2,0,2,0,139,141,145,1314,1.4,90.1
+2,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+3,Assam,56,7,63,0,0,0,0,0,0,0,1,0,1,0,0,1,1,62,100,98.4
+4,Bihar,585,102,687,0,0,0,0,0,0,0,1,0,1,0,23,24,24,663,4.2,96.5
+5,Chhattisgarh,2314,546,2860,0,0,0,0,0,0,0,199,1,200,0,61,261,261,2599,76.6,90.9
+6,Goa,23,1,24,0,0,0,0,0,0,0,1,0,1,0,0,1,1,23,100,95.8
+7,Gujarat,2981,286,3267,2,0,0,0,1,3,1,5,1,6,0,69,75,78,3189,8,97.6
+8,Haryana,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+9,Himachal Pradesh,24,4,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,NA,100
+10,Jharkhand,1232,121,1353,0,0,0,0,0,0,0,13,8,21,17,30,68,68,1285,30.9,95
+11,Karnataka,2109,341,2450,0,0,0,0,0,0,0,3,0,3,0,388,391,391,2059,0.8,84
+12,Kerala,650,174,824,0,0,0,0,2,2,0,8,3,11,0,97,108,110,714,10.2,86.7
+13,Madhya Pradesh,11442,2913,14355,1,0,0,0,0,1,0,378,39,417,151,594,1162,1163,13192,35.9,91.9
+14,Maharashtra,3805,591,4396,4,0,0,0,2,6,0,26,0,26,1,180,207,213,4183,12.6,95.2
+15,Manipur,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,NA,100
+16,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+17,Mizoram,0,29,29,0,0,0,0,0,0,0,0,2,2,1,0,3,3,26,66.7,89.7
+18,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+19,Odisha,5852,807,6659,0,0,0,0,0,0,0,9,0,9,0,37,46,46,6613,19.6,99.3
+20,Punjab,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,0
+21,Rajasthan,4882,1109,5991,0,3,0,0,0,3,0,179,4,183,48,167,398,401,5590,46,93.3
+22,Sikkim,3,1,4,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,75
+23,Tamil Nadu,119,59,178,0,0,0,0,0,0,0,0,0,0,0,8,8,8,170,0,95.5
+24,Telangana,1681,575,2256,3,0,0,0,1,4,0,16,2,18,0,257,275,279,1977,6.5,87.6
+25,Tripura,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,100
+26,Uttar Pradesh,1086,4,1090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1090,NA,100
+27,Uttarakhand,35,1,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,NA,100
+28,West Bengal,515,101,616,0,0,0,0,0,0,0,0,1,1,4,30,35,35,581,2.9,94.3
+Total State (S),Total State (S),40581,8052,48633,13,3,0,0,7,23,1,841,61,902,222,2083,3207,3230,45403,28.1,93.4
+29,Andaman and Nicobar Islands,31,3,34,0,0,0,0,0,0,0,0,0,0,1,0,1,1,33,0,97.1
+30,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+31,Dadra and Nagar Haveli and Daman and Diu,12,4,16,0,0,0,0,0,0,0,0,0,0,0,2,2,2,14,0,87.5
+32,Delhi,17,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,NA,100
+33,Jammu and Kashmir,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+34,Ladakh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+35,Lakshadweep,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,NA,0
+36,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+Total UT (S),Total UT (S),60,10,70,0,0,0,0,1,1,0,0,0,0,1,2,3,4,66,0,94.3
+Total All India,Total All India,40641,8062,48703,13,3,0,0,8,24,1,841,61,902,223,2085,3210,3234,45469,28.1,93.4

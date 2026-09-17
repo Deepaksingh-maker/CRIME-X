@@ -1,0 +1,143 @@
+Sl. No.,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Transgender,Persons Arrested - Total,Persons Charge sheeted - Male,Persons Charge sheeted - Female,Persons Charge sheeted - Transgender,Persons Charge sheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Transgender,Persons Convicted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Transgender,Persons Discharged - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Transgender,Persons Acquitted - Total
+1,Murder,4318,185,1,4504,3743,157,3,3903,463,10,0,473,13,0,0,13,766,30,0,796
+2,Culpable Homicide not amounting to Murder,388,16,0,404,322,12,0,334,53,0,0,53,8,0,0,8,57,1,0,58
+3,Causing Death by Negligence,7154,67,0,7221,7078,105,0,7183,923,27,0,950,125,0,0,125,1826,5,0,1831
+3.1,Deaths due to Negligence relating to Road Accidents,5721,53,0,5774,5738,96,0,5834,560,27,0,587,105,0,0,105,1316,5,0,1321
+3.1A,Hit and Run,2280,23,0,2303,2340,26,0,2366,194,19,0,213,61,0,0,61,375,1,0,376
+3.1B,Other Accidents,3441,30,0,3471,3398,70,0,3468,366,8,0,374,44,0,0,44,941,4,0,945
+3.2,Deaths due to Negligence relating to Rail Accidents,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.3,Deaths due to Medical Negligence,16,2,0,18,11,1,0,12,0,0,0,0,0,0,0,0,3,0,0,3
+3.4,Deaths due to Negligence of Civic Bodies,65,0,0,65,48,0,0,48,0,0,0,0,0,0,0,0,10,0,0,10
+3.5,Deaths due to other Negligence,1346,12,0,1358,1281,8,0,1289,363,0,0,363,20,0,0,20,497,0,0,497
+4,Dowry Deaths,758,107,0,865,688,98,0,786,127,12,0,139,5,0,0,5,178,38,0,216
+5,Abetment of Suicide,847,239,0,1086,784,185,0,969,29,5,0,34,4,0,0,4,142,36,0,178
+6,Attempt to Commit Murder,9047,184,4,9235,8242,137,4,8383,359,7,0,366,31,1,0,32,1256,32,0,1288
+7,Attempt to commit Culpable Homicide,2104,36,0,2140,1505,32,0,1537,100,0,0,100,19,1,0,20,251,1,0,252
+8,Attempt to Commit Suicide,62,8,0,70,82,12,0,94,16,1,0,17,5,0,0,5,25,1,0,26
+9,"Miscarriage, Infanticide, Foeticide and Abandonment",36,22,0,58,29,23,0,52,0,0,0,0,0,0,0,0,5,3,0,8
+10,Hurt,47754,3724,39,51517,49207,2957,21,52185,5287,218,0,5505,815,38,0,853,10812,814,0,11626
+10.1,Simple Hurt,39582,3423,39,43044,42430,2721,21,45172,3667,177,0,3844,781,38,0,819,8966,757,0,9723
+10.1A,Voluntarily Causing Simple Hurt,15163,1213,6,16382,20529,1519,3,22051,2131,125,0,2256,679,38,0,717,2375,243,0,2618
+10.1B,Voluntarily causing hurt by Dangerous weapons or means,20403,1535,33,21971,18189,1052,18,19259,1231,48,0,1279,81,0,0,81,5758,479,0,6237
+10.1C,Voluntarily Causing hurt/Force to deter public servant from his duty,1848,144,0,1992,1699,119,0,1818,157,4,0,161,17,0,0,17,650,22,0,672
+10.1D,Causing Hurt by act endangering life/safety of others,1074,511,0,1585,974,19,0,993,95,0,0,95,4,0,0,4,150,13,0,163
+10.1E,Other Simple Hurt,1094,20,0,1114,1039,12,0,1051,53,0,0,53,0,0,0,0,33,0,0,33
+10.2,Grievous Hurt,8172,301,0,8473,6777,236,0,7013,1620,41,0,1661,34,0,0,34,1846,57,0,1903
+10.2A,Voluntarily causing grievous hurt,4161,174,0,4335,3649,141,0,3790,943,12,0,955,11,0,0,11,1190,45,0,1235
+10.2B,Voluntarily causing grievous hurt by dangerous weapons or means,3625,113,0,3738,2756,80,0,2836,626,29,0,655,15,0,0,15,593,12,0,605
+10.2C,Acid Attack,27,7,0,34,19,6,0,25,2,0,0,2,0,0,0,0,7,0,0,7
+10.2D,Attempt to Acid Attack,20,1,0,21,20,2,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+10.2E,Voluntarily Causing Grievous hurt/Force to deter public servant from his duty,51,1,0,52,52,1,0,53,17,0,0,17,0,0,0,0,29,0,0,29
+10.2F,Causing Grevious Hurt by act endangering life/safety of others,275,5,0,280,264,6,0,270,32,0,0,32,8,0,0,8,27,0,0,27
+10.2G,Other Grevious Hurt,13,0,0,13,17,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+11,Wrongful Restraint/Confinement,623,108,0,731,595,16,0,611,64,0,0,64,0,0,0,0,149,6,0,155
+12,Assault on Women with Intent to Outrage her Modesty,10184,681,0,10865,9387,642,0,10029,544,11,0,555,88,5,0,93,1654,66,0,1720
+12.1,Assault on Women with Intent to Outrage her Modesty,5041,434,0,5475,4406,390,0,4796,197,9,0,206,68,4,0,72,887,55,0,942
+12.2,Sexual Harassment,2223,74,0,2297,2182,95,0,2277,202,1,0,203,4,0,0,4,431,8,0,439
+12.2A,at Work or Office Premises,55,0,0,55,69,0,0,69,3,0,0,3,0,0,0,0,7,0,0,7
+12.2B,In Public Transport System,26,0,0,26,25,0,0,25,0,0,0,0,0,0,0,0,9,0,0,9
+12.2C,In Shelter Homes for women and Children,74,5,0,79,137,12,0,149,4,0,0,4,0,0,0,0,26,0,0,26
+12.2D,Other Places,2068,69,0,2137,1951,83,0,2034,195,1,0,196,4,0,0,4,389,8,0,397
+12.3,Assault or use of Criminal Force on women with intent to Disrobe,1004,143,0,1147,906,124,0,1030,81,0,0,81,8,1,0,9,97,1,0,98
+12.4,Voyeurism,218,2,0,220,193,1,0,194,3,0,0,3,0,0,0,0,15,0,0,15
+12.5,Stalking,1698,28,0,1726,1700,32,0,1732,61,1,0,62,8,0,0,8,224,2,0,226
+13,Kidnapping and Abduction,5383,77,0,5460,3830,93,0,3923,409,4,0,413,73,0,0,73,655,10,0,665
+13.1,Kidnapping and Abduction,1530,46,0,1576,1466,64,0,1530,193,4,0,197,58,0,0,58,338,5,0,343
+13.1A,Missing Children Deemed as Kidnapped,659,20,0,679,590,18,0,608,98,1,0,99,38,0,0,38,135,3,0,138
+13.1B,Other Kidnapping and Abduction,871,26,0,897,876,46,0,922,95,3,0,98,20,0,0,20,203,2,0,205
+13.2,Kidnapping and Abduction for the Purpose of Begging,12,1,0,13,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+13.3,Kidnapping and Abduction in order to Murder,86,3,0,89,73,2,0,75,7,0,0,7,0,0,0,0,0,0,0,0
+13.4,Kidnapping for Ransom,248,8,0,256,197,11,0,208,13,0,0,13,0,0,0,0,22,0,0,22
+13.5,Kidnapping and Abduction of Women to compel her for marriage,1522,9,0,1531,706,9,0,715,110,0,0,110,0,0,0,0,154,4,0,158
+13.6,Procuration of Minor Girls,20,2,0,22,57,2,0,59,66,0,0,66,0,0,0,0,9,0,0,9
+13.7,Importation of Girls from Foreign Country,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13.8,Other Kidnapping and Abducion,1965,8,0,1973,1327,5,0,1332,20,0,0,20,15,0,0,15,132,1,0,133
+14,Human Trafficking,332,86,2,420,231,62,2,295,28,4,0,32,0,0,0,0,39,6,0,45
+15,Exploitation of Trafficked Person,42,14,0,56,63,12,0,75,9,2,0,11,0,0,0,0,25,2,0,27
+16,Selling of Minors for Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Buying of Minors for Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Rape,4209,182,0,4391,3689,162,0,3851,244,2,0,246,49,4,0,53,971,30,0,1001
+19,Attempt to Commit Rape,35,0,0,35,31,0,0,31,2,0,0,2,2,0,0,2,7,0,0,7
+20,Unnatural Offences,200,12,1,213,164,6,1,171,21,0,0,21,4,1,0,5,42,3,0,45
+Offences Affecting the Human Body (Total),Offences Affecting the Human Body (Total),93476,5748,47,99271,89670,4711,31,94412,8678,303,0,8981,1241,50,0,1291,18860,1084,0,19944
+21,Offences against State,1,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+21.1,Sedition,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+21.2,Others,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Offences against the State (Total),Offences against the State (Total),1,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+22,Unlawful Assembly,16358,3324,0,19682,3758,418,15,4191,1605,56,0,1661,123,4,0,127,6493,60,0,6553
+23,Riots,7351,624,61,8036,6880,438,4,7322,1331,0,0,1331,99,2,0,101,2024,78,0,2102
+23.1,Communal/Religious,320,0,0,320,290,0,0,290,0,0,0,0,0,0,0,0,40,0,0,40
+23.2,Sectarian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4
+23.3,Industrial,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23.4,Political,330,25,0,355,152,6,0,158,7,0,0,7,0,0,0,0,31,0,0,31
+23.5,Caste Conflict,11,0,0,11,11,0,0,11,0,0,0,0,0,0,0,0,1,0,0,1
+23.6,Agrarian,109,0,0,109,102,0,0,102,0,0,0,0,0,0,0,0,0,0,0,0
+23.7,Students,107,0,0,107,167,3,0,170,39,0,0,39,0,0,0,0,14,0,0,14
+23.8,Money Dispute,184,4,0,188,175,6,0,181,0,0,0,0,0,0,0,0,1,4,0,5
+23.9,Water Dispute,7,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23.1,Land/Property Dispute,701,32,0,733,602,30,0,632,0,0,0,0,0,0,0,0,41,6,0,47
+23.11,Family Disputes,228,29,0,257,138,23,0,161,0,0,0,0,0,0,0,0,25,11,0,36
+23.12,Enmity/Rivalry,760,37,0,797,691,41,0,732,41,0,0,41,26,0,0,26,208,6,0,214
+23.13,Electricity/Power Supply Disputes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23.14,Rioting while in Aandolan/Morcha,296,24,0,320,1450,62,0,1512,523,0,0,523,0,0,0,0,137,0,0,137
+23.15,Rioting/Attacks on Police Personnel or Govt Servants,96,7,0,103,103,7,0,110,16,0,0,16,0,0,0,0,0,0,0,0
+23.16,Other Riots,4196,466,61,4723,2999,260,4,3263,705,0,0,705,73,2,0,75,1522,51,0,1573
+24,Offences promoting enmity between different groups,261,4,0,265,220,2,0,222,20,0,0,20,0,0,0,0,30,0,0,30
+24.1,Promoting enmity between groups,259,4,0,263,219,2,0,221,20,0,0,20,0,0,0,0,25,0,0,25
+24.2,"Imputation, assertions prejudicial to national integration",2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,5,0,0,5
+25,Affray,1831,167,0,1998,1824,146,0,1970,829,49,0,878,27,3,0,30,118,6,0,124
+Offences against Public Tranquillity (Total),Offences against Public Tranquillity (Total),25801,4119,61,29981,12682,1004,19,13705,3785,105,0,3890,249,9,0,258,8665,144,0,8809
+26,Theft,69783,1173,8,70964,50999,721,6,51726,6655,66,0,6721,1213,14,0,1227,8255,82,0,8337
+26.1,Auto/Motor Vehicle Theft,22279,44,0,22323,21668,18,0,21686,2043,19,0,2062,433,0,0,433,3034,2,0,3036
+26.2,Other Thefts,47504,1129,8,48641,29331,703,6,30040,4612,47,0,4659,780,14,0,794,5221,80,0,5301
+27,Burglary,10670,124,0,10794,8363,108,0,8471,995,8,0,1003,84,0,0,84,1798,37,0,1835
+27.1,Day Time,2085,47,0,2132,1568,41,0,1609,190,3,0,193,21,0,0,21,360,1,0,361
+27.2,Night,8585,77,0,8662,6795,67,0,6862,805,5,0,810,63,0,0,63,1438,36,0,1474
+28,Extortion and Blackmailing,1991,84,2,2077,1696,63,2,1761,180,0,0,180,11,0,0,11,362,3,0,365
+29,Robbery,10372,90,11,10473,8485,73,11,8569,914,6,0,920,61,0,0,61,1463,4,0,1467
+30,Attempt to Commit Dacoity/Robbery,231,10,0,241,139,10,2,151,11,0,0,11,0,0,0,0,57,1,0,58
+31,Dacoity,1002,18,0,1020,835,11,0,846,79,0,0,79,0,0,0,0,167,2,0,169
+31.1,Dacoity,1002,18,0,1020,835,11,0,846,79,0,0,79,0,0,0,0,167,2,0,169
+31.2,Dacoity with Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Making Preparation and Assembly for committing Dacoity,1594,0,0,1594,1501,0,0,1501,87,0,0,87,7,0,0,7,541,0,0,541
+33,Criminal Misappropriation,10,0,0,10,22,0,0,22,0,0,0,0,0,0,0,0,11,0,0,11
+34,Criminal Breach of Trust,2424,121,0,2545,6218,91,0,6309,115,0,0,115,22,0,0,22,385,8,0,393
+35,Dishonestly Receiving/Dealing-in Stolen Property,1578,3,0,1581,1469,3,0,1472,120,0,0,120,2,0,0,2,6,5,0,11
+Offences against Property (Total),Offences against Property (Total),99655,1623,21,101299,79727,1080,21,80828,9156,80,0,9236,1400,14,0,1414,13045,142,0,13187
+36,Counterfeiting,98,5,0,103,85,3,0,88,13,1,0,14,0,0,0,0,20,0,0,20
+36.1,Counterfeit Coin,4,0,0,4,4,0,0,4,0,0,0,0,0,0,0,0,1,0,0,1
+36.2,Counterfeiting Government Stamp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36.3,Counterfeiting of Seal or Mark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36.4,Counterfeit Currency and Bank notes,94,5,0,99,81,3,0,84,13,1,0,14,0,0,0,0,19,0,0,19
+37,"Forgery, Cheating and Fraud",21189,1356,1,22546,23230,1296,0,24526,1164,62,0,1226,184,8,0,192,2600,123,0,2723
+37.1,Fraud,4036,198,0,4234,3848,150,0,3998,130,6,0,136,49,2,0,51,573,16,0,589
+37.1A,Bank,209,39,0,248,165,11,0,176,5,0,0,5,0,0,0,0,6,0,0,6
+37.1B,ATMs,488,0,0,488,400,0,0,400,1,0,0,1,0,0,0,0,9,0,0,9
+37.1C,Credit Card/Debit Card,599,17,0,616,649,17,0,666,12,0,0,12,0,0,0,0,71,0,0,71
+37.1D,Other Frauds,2740,142,0,2882,2634,122,0,2756,112,6,0,118,49,2,0,51,487,16,0,503
+37.2,Cheating,12566,962,1,13529,14563,931,0,15494,867,45,0,912,134,6,0,140,1706,92,0,1798
+37.3,Forgery,4587,196,0,4783,4819,215,0,5034,167,11,0,178,1,0,0,1,321,15,0,336
+Offences Relating to Documents and Property Marks (Total),Offences Relating to Documents and Property Marks (Total),21287,1361,1,22649,23315,1299,0,24614,1177,63,0,1240,184,8,0,192,2620,123,0,2743
+38,Offences relating to Elections,27,4,0,31,29,0,0,29,14,0,0,14,0,0,0,0,7,0,0,7
+39,Disobedience to order duly promulgated by Public Servant,50717,406,0,51123,63869,568,0,64437,42272,345,0,42617,5884,37,0,5921,12185,179,0,12364
+40,Harbouring an Offender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Offences relating to Adulteration or Sale of Food/Drugs,119,1,0,120,363,0,0,363,238,0,0,238,0,0,0,0,8,0,0,8
+42,Rash Driving on Public way,48259,459,0,48718,55501,519,0,56020,34415,417,0,34832,915,3,0,918,3258,27,0,3285
+42.1,Rash Driving on Public Way ,30132,110,0,30242,33584,103,0,33687,22868,44,0,22912,524,1,0,525,617,6,0,623
+42.2,Causing Hurt by Rash/Negligent Driving on Public Way ,8560,156,0,8716,10537,241,0,10778,4511,289,0,4800,207,1,0,208,1126,8,0,1134
+42.3,Causing Grievous Hurt by Rash/Negligent Driving on Public ,9567,193,0,9760,11380,175,0,11555,7036,84,0,7120,184,1,0,185,1515,13,0,1528
+43,Obstruction on Public way,19602,159,0,19761,27460,845,0,28305,20138,105,0,20243,118,0,0,118,1518,82,0,1600
+44,Sale of obscene Books/Objects,18,0,0,18,16,0,0,16,3,0,0,3,0,0,0,0,9,0,0,9
+45,Obscene Acts and Songs at Public Places,2095,144,12,2251,1714,134,12,1860,160,5,0,165,70,4,0,74,409,8,0,417
+46,Offences relating to Religion,167,1,0,168,159,1,0,160,9,0,0,9,2,0,0,2,4,0,0,4
+47,Cheating by Impersonation,28,4,0,32,36,3,0,39,168,0,0,168,2,0,0,2,10,0,0,10
+48,Offences related to Mischief,230,16,0,246,279,15,0,294,16,0,0,16,0,0,0,0,31,0,0,31
+49,Arson,362,5,0,367,396,0,0,396,9,0,0,9,3,0,0,3,57,0,0,57
+50,Criminal Trespass,1654,199,1,1854,2424,194,1,2619,167,15,0,182,17,1,0,18,665,39,0,704
+51,Cruelty by Husband or his Relatives,17766,4604,0,22370,19377,5542,0,24919,1043,103,0,1146,319,36,0,355,2979,1090,0,4069
+52,Circulate False/Fake News/Rumours,55,0,0,55,118,0,0,118,30,0,0,30,0,0,0,0,22,0,0,22
+53,Criminal Intimidation,8099,1018,10,9127,9621,1028,14,10663,136,8,0,144,18,4,0,22,2340,226,0,2566
+54,Insult to the Modesty of Women,1569,64,0,1633,1499,73,0,1572,52,2,0,54,21,2,0,23,208,10,0,218
+Miscellaneous IPC Crimes(Total),Miscellaneous IPC Crimes(Total),150767,7084,23,157874,182861,8922,27,191810,98870,1000,0,99870,7369,87,0,7456,23710,1661,0,25371
+55,Other IPC crimes,25410,1269,7,26686,22046,1073,7,23126,6715,80,3,6798,612,4,0,616,3551,118,0,3669
+Total Cognizable IPC crimes,Total Cognizable IPC crimes,416397,21204,160,437761,410303,18089,105,428497,128381,1631,3,130015,11055,172,0,11227,70451,3272,0,73723

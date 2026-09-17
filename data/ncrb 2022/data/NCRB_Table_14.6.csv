@@ -1,0 +1,40 @@
+Sl. No. - Col. (1),State/UT - Col. (2),Total number of Cases Reported - Col. (3),Disposal by Police - Cases Charge-sheeted - Col. (4),Disposal by Police - Final Report - Col. (5),Disposal by Police - Charge-sheeted Rate (Col.4/Col.4+ Col.5) X 100 - Col. (6),Disposal by Court - Cases Convicted by court - Col. (7),Disposal by Court - Cases Acquitted/ Discharged by court - Col. (8),Disposal by Court - Cases in which Trials were Completed  (Col.7 + Col.8) - Col. (9),Disposal by Court - Cases Conviction rate (Col.7/ Col.9) X 100 - Col. (10)
+1,Andhra Pradesh,163,170,2,98.8372093,8,143,151,5.30
+2,Arunachal Pradesh,4,1,0,100,0,0,0,NA
+3,Assam,140,103,138,42.73858921,0,26,26,0.00
+4,Bihar,260,189,34,84.75336323,1,0,1,100.00
+5,Chhattisgarh,26,20,3,86.95652174,0,0,0,NA
+6,Goa,1,1,2,33.33333333,1,14,15,6.67
+7,Gujarat,9,9,0,100,0,0,0,NA
+8,Haryana,13,12,3,80,3,5,8,37.50
+9,Himachal Pradesh,5,4,0,100,0,1,1,0.00
+10,Jharkhand,100,49,27,64.47368421,14,17,31,45.16
+11,Karnataka,18,24,2,92.30769231,0,4,4,0.00
+12,Kerala,135,137,89,60.61946903,0,165,165,0.00
+13,Madhya Pradesh,81,93,0,100,11,28,39,28.21
+14,Maharashtra,295,214,0,100,7,33,40,17.50
+15,Manipur,0,0,0,NA,0,0,0,NA
+16,Meghalaya,2,2,4,33.33333333,0,1,1,0.00
+17,Mizoram,0,0,0,NA,0,0,0,NA
+18,Nagaland,0,0,0,NA,0,0,0,NA
+19,Odisha,121,77,6,92.77108434,0,1,1,0.00
+20,Punjab,21,6,1,85.71428571,1,5,6,16.67
+21,Rajasthan,117,109,0,100,0,0,0,NA
+22,Sikkim,0,0,0,NA,0,0,0,NA
+23,Tamil Nadu,1,1,0,100,0,2,2,0.00
+24,Telangana,391,429,6,98.62068966,1,28,29,3.45
+25,Tripura,0,0,0,NA,0,0,0,NA
+26,Uttar Pradesh,126,7,1,87.5,0,0,0,NA
+27,Uttarakhand,16,18,1,94.73684211,0,2,2,0.00
+28,West Bengal,67,80,28,74.07407407,80,63,143,55.94
+Total States,Total States,2112,1755,347,83.49191246,127,538,665,19.10
+29,Andaman and Nicobar Islands,0,0,0,NA,0,0,0,NA
+30,Chandigarh,1,2,0,100,1,1,2,50.00
+31,Dadra and Nagar Haveli and Daman and Diu,0,0,0,NA,0,0,0,NA
+32,Delhi,106,60,3,95.23809524,2,6,8,25.00
+33,Jammu and Kashmir,8,4,1,80,0,0,0,NA
+34,Ladakh,0,0,0,NA,0,0,0,NA
+35,Lakshadweep,0,0,0,NA,0,0,0,NA
+36,Puducherry,23,9,0,NA,1,0,1,100.00
+Total UTS,Total UTS,138,75,4,94.93670886,4,7,11,36.36
+Total All India,Total All India,2250,1830,351,83.90646492,131,545,676,19.38

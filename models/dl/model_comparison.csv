@@ -1,0 +1,3 @@
+﻿model,model_file,precision,recall,mAP50,mAP50-95,epochs,image_size
+v1,C:\Users\dipak\OneDrive\Desktop\college work\Data science creative\PYTHON\practical\projects\Streamlit project\CRIME X\models\dl\crime_x_fire_detector.pt,0.0026666666666666666,0.6153846153846154,0.0972014370956454,0.04999269829313988,2,320
+v2,C:\Users\dipak\OneDrive\Desktop\college work\Data science creative\PYTHON\practical\projects\Streamlit project\CRIME X\models\dl\crime_x_fire_detector_v2.pt,0.004,0.9230769230769231,0.34632812085503273,0.12234900216189962,8,320

@@ -1,0 +1,21 @@
+Sl. No. - Col. (1),City - Col. (2),Cases Pending Trial from the Previous Year - Col. (3),Cases Sent for Trial during the year - Col. (4),Total Cases for Trial (Col.3+Col.4) - Col. (5),Cases Abated by Court - Col. (6),Cases Withdrawn from Prosecution - Col. (7),Cases Compounded or Compromised - Col. (8),Cases Disposed off by Plea Bargaining - Col. (9),Cases Quashed - Col. (10),Cases Disposed off without trial (Col.6+Col.7+Col.8+Col.9+Col.10) - Col. (11),Cases Stayed or Sent to Record Room - Col. (12),Cases Convicted Out of Cases from Previous Year - Col. (13),Cases Convicted Out of Cases during the Year - Col. (14),Cases Convicted (Col.13+Col.14) - Col. (15),Cases Discharged - Col. (16),Cases Acquitted - Col. (17),Cases in which Trials were Completed (Col.15+Col.16+Col.17) - Col. (18),Cases Disposed off by Courts (Col.11+Col.18) - Col. (19),Cases Pending Trial at End of the Year (Col.5-Col.19) - Col. (20),Conviction Rate (Col.15/Col.18)*100 - Col. (21),Pendency Percentage (Col.20/Col.5)*100 - Col. (22)
+1,Ahmedabad (Gujarat),197611,30894,228505,166,0,0,0,1,167,2,11980,2342,14322,4,17939,32265,32432,196073,44.4,85.8
+2,Bengaluru (Karnataka),22889,10355,33244,16,0,2891,0,65,2972,10,1705,1293,2998,9,1241,4248,7220,26024,70.6,78.3
+3,Chennai (Tamil Nadu),26235,27461,53696,10,24,2,0,15,51,0,18513,9017,27530,0,286,27816,27867,25829,99,48.1
+4,Coimbatore (Tamil Nadu),13285,4688,17973,1,0,0,0,0,1,0,3965,2593,6558,0,104,6662,6663,11310,98.4,62.9
+5,Delhi,75153,17398,92551,62,1,238,58,61,420,6,3147,879,4026,121,812,4959,5379,87172,81.2,94.2
+6,Ghaziabad (Uttar Pradesh),46540,2745,49285,0,0,0,0,0,0,0,504,111,615,0,156,771,771,48514,79.8,98.4
+7,Hyderabad (Telangana),5124,2419,7543,0,0,238,0,1,239,0,666,544,1210,0,484,1694,1933,5610,71.4,74.4
+8,Indore (Madhya Pradesh),16247,10451,26698,6,0,6,0,0,12,0,941,4738,5679,0,515,6194,6206,20492,91.7,76.8
+9,Jaipur (Rajasthan),33108,8228,41336,0,0,0,0,0,0,0,5042,969,6011,43,115,6169,6169,35167,97.4,85.1
+10,Kanpur (Uttar Pradesh),30247,3175,33422,0,0,0,0,0,0,0,2740,0,2740,0,618,3358,3358,30064,81.6,90
+11,Kochi (Kerala),121866,15411,137277,0,0,0,0,0,0,0,21463,5883,27346,0,110,27456,27456,109821,99.6,80
+12,Kolkata (West Bengal),14171,1657,15828,0,0,0,0,0,0,0,1104,124,1228,0,0,1228,1228,14600,100,92.2
+13,Kozhikode (Kerala),7462,3707,11169,25,0,5,0,2,32,0,2836,993,3829,1,87,3917,3949,7220,97.8,64.6
+14,Lucknow (Uttar Pradesh),63177,3369,66546,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66546,NA,100
+15,Mumbai (Maharashtra),85126,16451,101577,40,4,117,0,2,163,0,1419,3989,5408,3143,1609,10160,10323,91254,53.2,89.8
+16,Nagpur (Maharashtra),120435,6975,127410,24,0,6,0,7,37,0,443,197,640,0,3454,4094,4131,123279,15.6,96.8
+17,Patna (Bihar),33099,13687,46786,0,0,0,0,0,0,0,195,0,195,0,47,242,242,46544,80.6,99.5
+18,Pune (Maharashtra),173520,2738,176258,4,52,304,0,8,368,0,65,7,72,66,863,1001,1369,174889,7.2,99.2
+19,Surat (Gujarat),430629,45330,475959,0,0,0,0,0,0,0,0,6450,6450,0,1399,7849,7849,468110,82.2,98.4
+Total Cities ,Total Cities ,1515924,227139,1743063,354,81,3807,58,162,4462,18,76728,40129,116857,3387,29839,150083,154545,1588518,77.9,91.1

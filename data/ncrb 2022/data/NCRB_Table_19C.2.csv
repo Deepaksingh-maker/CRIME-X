@@ -1,0 +1,40 @@
+Sl. No. - Col. (1),State/UT - Col. (2),Persons Arrested - Col. (3),Juveniles - Apprehended for First Time - Col. (4),Juveniles - Apprehended but not Convicted in Past - Col. (5),Juveniles - Apprehended were Convicted in Past - Col. (6),Adults - Persons Arrested for First Time - Col. (7),Adults - Persons Arrested but not Convicted in Past - Col. (8),Adults - Persons Arrested and Convicted in Past - Col. (9),Percentage of Recidivism (Col.5+6+8+9)/Col.3)*100 - Col. (10)
+1,Andhra Pradesh,75936,130,10,0,72710,2536,550,4.1
+2,Arunachal Pradesh,957,4,0,0,895,58,0,6.1
+3,Assam,13243,80,0,0,11600,1520,43,11.8
+4,Bihar,150940,262,9,6,124156,22721,3786,17.6
+5,Chhattisgarh,72333,304,8,0,67158,4631,232,6.7
+6,Goa,1125,1,0,0,1107,17,0,1.5
+7,Gujarat,449522,267,1,0,421141,21954,6159,6.3
+8,Haryana,46314,222,13,3,42755,1210,2111,7.2
+9,Himachal Pradesh,4634,18,1,0,3962,541,112,14.1
+10,Jharkhand,19591,11,0,0,16392,3107,81,16.3
+11,Karnataka,73374,105,0,0,71891,915,463,1.9
+12,Kerala,174217,128,3,1,161612,10168,2305,7.2
+13,Madhya Pradesh,97626,558,4,8,88945,4198,3913,8.3
+14,Maharashtra,87301,453,0,0,79682,6153,1013,8.2
+15,Manipur,1620,21,0,0,1593,6,0,0.4
+16,Meghalaya,618,66,0,0,547,5,0,0.8
+17,Mizoram,698,5,0,0,659,23,11,4.9
+18,Nagaland,777,1,0,0,698,69,9,10
+19,Odisha,13931,7,0,0,13924,0,0,0
+20,Punjab,41374,76,0,2,37378,2735,1183,9.5
+21,Rajasthan,88353,182,4,1,80323,5274,2569,8.9
+22,Sikkim,300,5,1,0,279,15,0,5.3
+23,Tamil Nadu,347436,511,9,5,293624,28456,24831,15.3
+24,Telangana,14360,114,1,0,13899,313,33,2.4
+25,Tripura,1531,22,0,0,1473,36,0,2.4
+26,Uttar Pradesh,300159,358,0,0,288367,9617,1817,3.8
+27,Uttarakhand,13537,24,0,3,12089,1268,153,10.5
+28,West Bengal,27787,148,5,0,26719,689,226,3.3
+Total States,Total States,2119594,4083,69,29,1935578,128235,51600,8.5
+29,Andaman and Nicobar Islands,1271,19,0,0,858,91,303,31
+30,Chandigarh,925,3,0,0,845,43,34,8.3
+31,Dadra and Nagar Haveli and Daman and Diu,203,8,0,0,194,1,0,0.5
+32,Delhi,29230,200,10,2,24224,4125,669,16.4
+33,Jammu and Kashmir,8230,71,0,0,8130,29,0,0.4
+34,Ladakh,38,0,0,0,38,0,0,0
+35,Lakshadweep,38,0,0,0,38,0,0,0
+36,Puducherry,2382,25,0,0,2357,0,0,0
+Total UTs,Total UTs,42317,326,10,2,36684,4289,1006,12.5
+Total All India,Total All India,2161911,4409,79,31,1972262,132524,52606,8.6

@@ -1,0 +1,971 @@
+source_name,geojson_name,match_status,confidence,reason
+[STATE] Andaman and Nicobar Islands,Andaman & Nicobar,MATCHED,1.0,Standard alias: Andaman & Nicobar
+[STATE] Andhra Pradesh,Andhra Pradesh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Arunachal Pradesh,Arunachal Pradesh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Assam,Assam,MATCHED,1.0,Exact case-insensitive match
+[STATE] Bihar,Bihar,MATCHED,1.0,Exact case-insensitive match
+[STATE] Chandigarh,Chandigarh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Chhattisgarh,Chhattisgarh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli and Daman and Diu,MATCHED,1.0,Exact case-insensitive match
+[STATE] Delhi,Delhi,MATCHED,1.0,Exact case-insensitive match
+[STATE] Goa,Goa,MATCHED,1.0,Exact case-insensitive match
+[STATE] Gujarat,Gujarat,MATCHED,1.0,Exact case-insensitive match
+[STATE] Haryana,Haryana,MATCHED,1.0,Exact case-insensitive match
+[STATE] Himachal Pradesh,Himachal Pradesh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Jammu and Kashmir,Jammu & Kashmir,MATCHED,1.0,Standard alias: Jammu & Kashmir
+[STATE] Jharkhand,Jharkhand,MATCHED,1.0,Exact case-insensitive match
+[STATE] Karnataka,Karnataka,MATCHED,1.0,Exact case-insensitive match
+[STATE] Kerala,Kerala,MATCHED,1.0,Exact case-insensitive match
+[STATE] Ladakh,Ladakh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Lakshadweep,Lakshadweep,MATCHED,1.0,Exact case-insensitive match
+[STATE] Madhya Pradesh,Madhya Pradesh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Maharashtra,Maharashtra,MATCHED,1.0,Exact case-insensitive match
+[STATE] Manipur,Manipur,MATCHED,1.0,Exact case-insensitive match
+[STATE] Meghalaya,Meghalaya,MATCHED,1.0,Exact case-insensitive match
+[STATE] Mizoram,Mizoram,MATCHED,1.0,Exact case-insensitive match
+[STATE] Nagaland,Nagaland,MATCHED,1.0,Exact case-insensitive match
+[STATE] Odisha,Odisha,MATCHED,1.0,Exact case-insensitive match
+[STATE] Puducherry,Puducherry,MATCHED,1.0,Exact case-insensitive match
+[STATE] Punjab,Punjab,MATCHED,1.0,Exact case-insensitive match
+[STATE] Rajasthan,Rajasthan,MATCHED,1.0,Exact case-insensitive match
+[STATE] Sikkim,Sikkim,MATCHED,1.0,Exact case-insensitive match
+[STATE] Tamil Nadu,Tamil Nadu,MATCHED,1.0,Exact case-insensitive match
+[STATE] Telangana,Telangana,MATCHED,1.0,Exact case-insensitive match
+[STATE] Tripura,Tripura,MATCHED,1.0,Exact case-insensitive match
+[STATE] Uttar Pradesh,Uttar Pradesh,MATCHED,1.0,Exact case-insensitive match
+[STATE] Uttarakhand,Uttarakhand,MATCHED,1.0,Exact case-insensitive match
+[STATE] West Bengal,West Bengal,MATCHED,1.0,Exact case-insensitive match
+Andhra Pradesh / Alluri Sitharama Raju,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Anakapalli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Anantapuramu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Annamayya,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Bapatla,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Chittoor,Chittoor,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Dr BR Ambedkar Konaseema,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / East Godavari,East Godavari,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Eluru,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Guntakal Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Andhra Pradesh / Guntur,Guntur,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Kakinada,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Krishna,Krishna,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Kurnool,Kurnool,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Nandyal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / NTR,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Palnadu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Parvathipuram Manyam,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Prakasam,Prakasam,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Sri Potti Sriramulu Nellore,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Sri Sathya Sai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Srikakulam,Srikakulam,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / Tirupati,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andhra Pradesh / Viiayawada Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Andhra Pradesh / Visakhapatnam,Vishakhapatnam,MATCHED,1.0,Standard alias: Vishakhapatnam
+Andhra Pradesh / Vizianagaram,Vizianagaram,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / West Godavari,West Godavari,MATCHED,1.0,Exact match in parent state
+Andhra Pradesh / YSR,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Anjaw,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Changlang,Changlang,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Crime Branch,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Dibang Valley,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Kameng East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Kameng West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Kurung Kumey,Kurung Kumey,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Lohit,Lohit,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Longding,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Lower Dibang Valley,Lower Dibang Valley,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Papum Pare City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Papum Pare Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Siang East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Siang Upper,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Siang West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Subansiri Lower,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Subansiri Upper,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Tawang,Tawang,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Tirap,Tirap,MATCHED,1.0,Exact match in parent state
+Arunachal Pradesh / Namsai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Siang,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Kamle,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Kra Dadi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Lower Siang,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Leparada,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Shiyomi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Arunachal Pradesh / Pakkessang,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / BIEO,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Barpeta,Barpeta,MATCHED,1.0,Exact match in parent state
+Assam / Baksa,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Bongaigaon,Bongaigaon,MATCHED,1.0,Exact match in parent state
+Assam / CID,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Cachar,Cachar,MATCHED,1.0,Exact match in parent state
+Assam / Chirang,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Darrang,Darrang,MATCHED,1.0,Exact match in parent state
+Assam / Dhemaji,Dhemaji,MATCHED,1.0,Exact match in parent state
+Assam / Dhubri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Dibrugarh,Dibrugarh,MATCHED,1.0,Exact match in parent state
+Assam / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Goalpara,Goalpara,MATCHED,1.0,Exact match in parent state
+Assam / Golaghat,Golaghat,MATCHED,1.0,Exact match in parent state
+Assam / Guwahati City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Hailakandi,Hailakandi,MATCHED,1.0,Exact match in parent state
+Assam / Hamren,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Jorhat,Jorhat,MATCHED,1.0,Exact match in parent state
+Assam / Kamrup,Kamrup,MATCHED,1.0,Exact match in parent state
+Assam / Karbi Anglong,Karbi Anglong,MATCHED,1.0,Exact match in parent state
+Assam / Karimganj,Karimganj,MATCHED,1.0,Exact match in parent state
+Assam / Kokrajhar,Kokrajhar,MATCHED,1.0,Exact match in parent state
+Assam / Lakhimpur,Lakhimpur,MATCHED,1.0,Exact match in parent state
+Assam / Morigaon,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Dima Hasao,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Nagaon,Nagaon,MATCHED,1.0,Exact match in parent state
+Assam / Nalbari,Nalbari,MATCHED,1.0,Exact match in parent state
+Assam / RPO,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / SOU,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / STF,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Sibsagar,Sibsagar,MATCHED,1.0,Exact match in parent state
+Assam / Sonitpur,Sonitpur,MATCHED,1.0,Exact match in parent state
+Assam / Tinsukia,Tinsukia,MATCHED,1.0,Exact match in parent state
+Assam / Udalguri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Sadia,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Majuli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Biswanath,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Hojai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / South Salmara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Charaideo,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Bajali,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Assam / Tamulpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Araria,Araria,MATCHED,1.0,Exact match in parent state
+Bihar / Arwal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Aurangabad,Aurangabad,MATCHED,1.0,Exact match in parent state
+Bihar / Bagaha,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Banka,Banka,MATCHED,1.0,Exact match in parent state
+Bihar / Begusarai,Begusarai,MATCHED,1.0,Exact match in parent state
+Bihar / Bettiah,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Kaimur(Bhabhua),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Bhagalpur,Bhagalpur,MATCHED,1.0,Exact match in parent state
+Bihar / Bhojpur,Bhojpur,MATCHED,1.0,Exact match in parent state
+Bihar / Buxar,Buxar,MATCHED,1.0,Exact match in parent state
+Bihar / Darbhanga,Darbhanga,MATCHED,1.0,Exact match in parent state
+Bihar / Gaya,Gaya,MATCHED,1.0,Exact match in parent state
+Bihar / Gopalganj,Gopalganj,MATCHED,1.0,Exact match in parent state
+Bihar / Jamalpur Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Bihar / Jamui,Jamui,MATCHED,1.0,Exact match in parent state
+Bihar / Jehanabad,Jehanabad,MATCHED,1.0,Exact match in parent state
+Bihar / Katihar,Katihar,MATCHED,1.0,Exact match in parent state
+Bihar / Katihar Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Bihar / Khagaria,Khagaria,MATCHED,1.0,Exact match in parent state
+Bihar / Kishanganj,Kishanganj,MATCHED,1.0,Exact match in parent state
+Bihar / Lakhisarai,Lakhisarai,MATCHED,1.0,Exact match in parent state
+Bihar / Madhepura,Madhepura,MATCHED,1.0,Exact match in parent state
+Bihar / Madhubani,Madhubani,MATCHED,1.0,Exact match in parent state
+Bihar / Motihari,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Munger,Munger,MATCHED,1.0,Exact match in parent state
+Bihar / Muzaffarpur,Muzaffarpur,MATCHED,1.0,Exact match in parent state
+Bihar / Muzaffarpur Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Bihar / Nalanda,Nalanda,MATCHED,1.0,Exact match in parent state
+Bihar / Naugachia,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Nawadah,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Patna,Patna,MATCHED,1.0,Exact match in parent state
+Bihar / Patna Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Bihar / Purnea,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Rohtas,Rohtas,MATCHED,1.0,Exact match in parent state
+Bihar / Saharsa,Saharsa,MATCHED,1.0,Exact match in parent state
+Bihar / Samastipur,Samastipur,MATCHED,1.0,Exact match in parent state
+Bihar / Saran,Saran,MATCHED,1.0,Exact match in parent state
+Bihar / Sheikhpura,Sheikhpura,MATCHED,1.0,Exact match in parent state
+Bihar / Sheohar,Sheohar,MATCHED,1.0,Exact match in parent state
+Bihar / Sitamarhi,Sitamarhi,MATCHED,1.0,Exact match in parent state
+Bihar / Siwan,Siwan,MATCHED,1.0,Exact match in parent state
+Bihar / Supaul,Supaul,MATCHED,1.0,Exact match in parent state
+Bihar / Vaishali,Vaishali,MATCHED,1.0,Exact match in parent state
+Bihar / Economic Offences Unit,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Bihar / Anti Terrorist Squad,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Balod,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Balodbazar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Balrampur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Bemetra,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Bilaspur,Bilaspur,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Bizapur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Dantewara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Dhamtari,Dhamtari,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Durg,Durg,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Gariyaband,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / GRP Raipur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Jagdalpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Janjgir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Jashpur,Jashpur,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Kabirdham,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Kanker,Kanker,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Kondagaon,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Korba,Korba,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Koriya,Koriya,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Mahasamund,Mahasamund,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Mungali,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Narayanpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Raigarh,Raigarh,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Raipur,Raipur,MATCHED,1.0,Exact match in parent state
+Chhattisgarh / Rajnandgaon,Raj Nandgaon,MATCHED,0.9,Normalized district match in state
+Chhattisgarh / Sarguja,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Sukma,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Surajpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Gaurela-Pendra-Marwari,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Khairagarh - Chhuikhadan-Gandai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Manendragarh-Chirmiri-Bharatpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Mohla-Manpur-Ambagarh Chouki,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Sakti,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Chhattisgarh / Sarangarh-Bilaigarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Goa / North Goa,North Goa,MATCHED,1.0,Exact match in parent state
+Goa / South Goa,South Goa,MATCHED,1.0,Exact match in parent state
+Goa / CID,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Ahmedabad City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Ahmedabad Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Amreli,Amreli,MATCHED,1.0,Exact match in parent state
+Gujarat / Anand,Anand,MATCHED,1.0,Exact match in parent state
+Gujarat / Arvalli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Banaskantha,Banas Kantha,MATCHED,1.0,Standard alias: Banas Kantha
+Gujarat / Bharuch,Bharuch,MATCHED,1.0,Exact match in parent state
+Gujarat / Bhavnagar,Bhavnagar,MATCHED,1.0,Exact match in parent state
+Gujarat / Botad,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Chhotaudepur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / CID Crime,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Dahod,Dahod,MATCHED,1.0,Exact match in parent state
+Gujarat / Dang,The Dangs,MATCHED,1.0,Standard alias: The Dangs
+Gujarat / Devbhumi Dwarka,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Gandhinagar,Gandhinagar,MATCHED,1.0,Exact match in parent state
+Gujarat / Gir Somnath,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Jamnagar,Jamnagar,MATCHED,1.0,Exact match in parent state
+Gujarat / Junagadh,Junagadh,MATCHED,1.0,Exact match in parent state
+Gujarat / Kachchh East(G),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Kachchh West(B),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Kheda,Kheda,MATCHED,1.0,Exact match in parent state
+Gujarat / Mahisagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Mehsana,Mahesana,MATCHED,1.0,Standard alias: Mahesana
+Gujarat / Morbi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Narmada,Narmada,MATCHED,1.0,Exact match in parent state
+Gujarat / Navsari,Navsari,MATCHED,1.0,Exact match in parent state
+Gujarat / Panchmahal,Panch Mahals,MATCHED,1.0,Standard alias: Panch Mahals
+Gujarat / Patan,Patan,MATCHED,1.0,Exact match in parent state
+Gujarat / Porbandar,Porbandar,MATCHED,1.0,Exact match in parent state
+Gujarat / Rajkot City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Rajkot Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Sabarkantha,Sabar Kantha,MATCHED,1.0,Standard alias: Sabar Kantha
+Gujarat / Surat City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Surat Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Surendranagar,Surendranagar,MATCHED,1.0,Exact match in parent state
+Gujarat / Tapi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Vadodara City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Vadodara Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Valsad,Valsad,MATCHED,1.0,Exact match in parent state
+Gujarat / W.Rly Ahmedabad,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Gujarat / W.Rly Vadodara,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Gujarat / Cyber Ahmedabad Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Bhavnagar Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Border Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Gandhinagar Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Junagadh Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Panchmahal Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Rajkot Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Surat Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Gujarat / Cyber Vadodara Range,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Ambala,Ambala,MATCHED,1.0,Exact match in parent state
+Haryana / Bhiwani,Bhiwani,MATCHED,1.0,Exact match in parent state
+Haryana / Faridabad,Faridabad,MATCHED,1.0,Exact match in parent state
+Haryana / Fatehabad,Fatehabad,MATCHED,1.0,Exact match in parent state
+Haryana / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Gurugram,Gurgaon,MATCHED,1.0,Standard alias: Gurgaon
+Haryana / Hissar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Jhajjar,Jhajjar,MATCHED,1.0,Exact match in parent state
+Haryana / Jind,Jind,MATCHED,1.0,Exact match in parent state
+Haryana / Kaithal,Kaithal,MATCHED,1.0,Exact match in parent state
+Haryana / Karnal,Karnal,MATCHED,1.0,Exact match in parent state
+Haryana / Kurukshetra,Kurukshetra,MATCHED,1.0,Exact match in parent state
+Haryana / Mahendergarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Nuh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Palwal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Panchkula,Panchkula,MATCHED,1.0,Exact match in parent state
+Haryana / Panipat,Panipat,MATCHED,1.0,Exact match in parent state
+Haryana / Rewari,Rewari,MATCHED,1.0,Exact match in parent state
+Haryana / Rohtak,Rohtak,MATCHED,1.0,Exact match in parent state
+Haryana / Sirsa,Sirsa,MATCHED,1.0,Exact match in parent state
+Haryana / Sonipat,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Yamunanagar,Yamuna Nagar,MATCHED,0.9,Normalized district match in state
+Haryana / Irrigation & Power,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Charkhi Dadri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Haryana / Hansi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Himachal Pradesh / Baddi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Himachal Pradesh / Bilaspur,Bilaspur,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Chamba,Chamba,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / CID,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Himachal Pradesh / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Himachal Pradesh / Hamirpur,Hamirpur,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Kangra,Kangra,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Kinnaur,Kinnaur,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Kullu,Kullu,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Lahaul & Spiti,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Himachal Pradesh / Mandi,Mandi,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Shimla,Shimla,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Sirmaur,Sirmaur,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Solan,Solan,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Una,Una,MATCHED,1.0,Exact match in parent state
+Himachal Pradesh / Cyber,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Bokaro,Bokaro,MATCHED,1.0,Exact match in parent state
+Jharkhand / Chaibasa,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Chatra,Chatra,MATCHED,1.0,Exact match in parent state
+Jharkhand / Deoghar,Deoghar,MATCHED,1.0,Exact match in parent state
+Jharkhand / Dhanbad,Dhanbad,MATCHED,1.0,Exact match in parent state
+Jharkhand / Dhanbad Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Jharkhand / Dumka,Dumka,MATCHED,1.0,Exact match in parent state
+Jharkhand / Garhwa,Garhwa,MATCHED,1.0,Exact match in parent state
+Jharkhand / Giridih,Giridih,MATCHED,1.0,Exact match in parent state
+Jharkhand / Godda,Godda,MATCHED,1.0,Exact match in parent state
+Jharkhand / Gumla,Gumla,MATCHED,1.0,Exact match in parent state
+Jharkhand / Hazaribagh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Jamshedpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Jamshedpur Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Jharkhand / Jamtara,Jamtara,MATCHED,1.0,Exact match in parent state
+Jharkhand / Khunti,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Koderma,Koderma,MATCHED,1.0,Exact match in parent state
+Jharkhand / Latehar,Latehar,MATCHED,1.0,Exact match in parent state
+Jharkhand / Lohardagga,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Pakur,Pakur,MATCHED,1.0,Exact match in parent state
+Jharkhand / Palamu,Palamu,MATCHED,1.0,Exact match in parent state
+Jharkhand / Ramgarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Ranchi,Ranchi,MATCHED,1.0,Exact match in parent state
+Jharkhand / Sahebganj,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Saraikela,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jharkhand / Simdega,Simdega,MATCHED,1.0,Exact match in parent state
+Karnataka / Bagalkot,Bagalkot,MATCHED,1.0,Exact match in parent state
+Karnataka / Bengaluru City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Bengaluru District,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Belagavi District,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Ballari,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Bidar,Bidar,MATCHED,1.0,Exact match in parent state
+Karnataka / Vijayapura,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Chikkaballapura,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Chamarajnagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Chikkamagaluru,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Chitradurga,Chitradurga,MATCHED,1.0,Exact match in parent state
+Karnataka / Dakshina Kannada,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Davanagere,Davanagere,MATCHED,1.0,Exact match in parent state
+Karnataka / Dharwad,Dharwad,MATCHED,1.0,Exact match in parent state
+Karnataka / Gadag,Gadag,MATCHED,1.0,Exact match in parent state
+Karnataka / Kalaburgi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Hassan,Hassan,MATCHED,1.0,Exact match in parent state
+Karnataka / Haveri,Haveri,MATCHED,1.0,Exact match in parent state
+Karnataka / Hubballi Dharwad City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / K.G.F.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Kodagu,Kodagu,MATCHED,1.0,Exact match in parent state
+Karnataka / Kolar,Kolar,MATCHED,1.0,Exact match in parent state
+Karnataka / Koppal,Koppal,MATCHED,1.0,Exact match in parent state
+Karnataka / Mandya,Mandya,MATCHED,1.0,Exact match in parent state
+Karnataka / Mangaluru City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Mysuru City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Mysuru District,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Raichur,Raichur,MATCHED,1.0,Exact match in parent state
+Karnataka / K.Railways,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Karnataka / Ramanagara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Shimoga,Shimoga,MATCHED,1.0,Exact match in parent state
+Karnataka / Tumakuru,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Udupi,Udupi,MATCHED,1.0,Exact match in parent state
+Karnataka / Uttara Kannada,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Yadgiri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Belagavi City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Kalaburgi City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Karnataka / Vijayanagara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / All Districts,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Alapuzha,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Ernakulam Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Ernakulam Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Idukki,Idukki,MATCHED,1.0,Exact match in parent state
+Kerala / Kannur City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kasargod,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kollam Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kollam Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kottayam,Kottayam,MATCHED,1.0,Exact match in parent state
+Kerala / Kozhikode Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kozhikode Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Malappuram,Malappuram,MATCHED,1.0,Exact match in parent state
+Kerala / Palakkad,Palakkad,MATCHED,1.0,Exact match in parent state
+Kerala / Pathanamthitta,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Railways,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Kerala / Thrissur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Trivandrum Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Trivandrum Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Wayanadu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Crime Branch,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Kerala / Kannur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Agar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Alirajpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Anuppur,Anuppur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Ashok Nagar,Ashoknagar,MATCHED,0.9,Normalized district match in state
+Madhya Pradesh / Balaghat,Balaghat,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Barwani,Barwani,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Betul,Betul,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Bhind,Bhind,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Bhopal Commissionarate,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Bhopal Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Madhya Pradesh / Burhanpur,Burhanpur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Chhatarpur,Chhatarpur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Chhindwara,Chhindwara,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Damoh,Damoh,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Datia,Datia,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Dewas,Dewas,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Dhar,Dhar,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Dindori,Dindori,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Guna,Guna,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Gwalior,Gwalior,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Harda,Harda,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Narmadapuram,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Indore Commissionarate,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Indore Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Madhya Pradesh / Jabalpur,Jabalpur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Jabalpur Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Madhya Pradesh / Jhabua,Jhabua,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Katni,Katni,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Khandwa,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Khargone,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Mandla,Mandla,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Mandsaur,Mandsaur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Morena,Morena,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Narsinghpur,Narsinghpur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Neemuch,Neemuch,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Panna,Panna,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Raisen,Raisen,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Rajgarh,Rajgarh,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Ratlam,Ratlam,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Rewa,Rewa,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Sagar,Sagar,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Satna,Satna,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Seoni,Seoni,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Shahdol,Shahdol,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Shajapur,Shajapur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Sheopur,Sheopur,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Shivpuri,Shivpuri,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Sidhi,Sidhi,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Sehore,Sehore,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Singrauli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Tikamgarh,Tikamgarh,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Ujjain,Ujjain,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Umaria,Umaria,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Vidisha,Vidisha,MATCHED,1.0,Exact match in parent state
+Madhya Pradesh / Cyber Crime Cell,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Niwari,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Bhopal Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Madhya Pradesh / Indore Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Ahmednagar,Ahmednagar,MATCHED,1.0,Exact match in parent state
+Maharashtra / Akola,Akola,MATCHED,1.0,Exact match in parent state
+Maharashtra / Amravati Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Amravati Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Aurangabad Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Aurangabad Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Beed,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Bhandara,Bhandara,MATCHED,1.0,Exact match in parent state
+Maharashtra / Buldhana,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Chandrapur,Chandrapur,MATCHED,1.0,Exact match in parent state
+Maharashtra / Dhule,Dhule,MATCHED,1.0,Exact match in parent state
+Maharashtra / Gadchiroli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Gondia,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Hingoli,Hingoli,MATCHED,1.0,Exact match in parent state
+Maharashtra / Jalgaon,Jalgaon,MATCHED,1.0,Exact match in parent state
+Maharashtra / Jalna,Jalna,MATCHED,1.0,Exact match in parent state
+Maharashtra / Kolhapur,Kolhapur,MATCHED,1.0,Exact match in parent state
+Maharashtra / Latur,Latur,MATCHED,1.0,Exact match in parent state
+Maharashtra / Mumbai Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Mumbai Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Maharashtra / Nagpur Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Nagpur Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Maharashtra / Nagpur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Nanded,Nanded,MATCHED,1.0,Exact match in parent state
+Maharashtra / Nandurbar,Nandurbar,MATCHED,1.0,Exact match in parent state
+Maharashtra / Nasik Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Nasik Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Navi Mumbai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Osmanabad,Osmanabad,MATCHED,1.0,Exact match in parent state
+Maharashtra / Palghar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Parbhani,Parbhani,MATCHED,1.0,Exact match in parent state
+Maharashtra / Pune Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Pune Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Maharashtra / Pune Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Raigad,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Ratnagiri,Ratnagiri,MATCHED,1.0,Exact match in parent state
+Maharashtra / Sangli,Sangli,MATCHED,1.0,Exact match in parent state
+Maharashtra / Satara,Satara,MATCHED,1.0,Exact match in parent state
+Maharashtra / Sindhudurg,Sindhudurg,MATCHED,1.0,Exact match in parent state
+Maharashtra / Solapur Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Solapur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Thane Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Thane Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Wardha,Wardha,MATCHED,1.0,Exact match in parent state
+Maharashtra / Washim,Washim,MATCHED,1.0,Exact match in parent state
+Maharashtra / Yavatmal,Yavatmal,MATCHED,1.0,Exact match in parent state
+Maharashtra / Pimpri Chinchwad City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Maharashtra / Aurangabad Railway,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Maharashtra / Mira Bhayandar Vasai Virar Commr.,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Bishnupur,Bishnupur,MATCHED,1.0,Exact match in parent state
+Manipur / Chandel,Chandel,MATCHED,1.0,Exact match in parent state
+Manipur / Churachandpur,Churachandpur,MATCHED,1.0,Exact match in parent state
+Manipur / CID,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Imphal East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Imphal West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Senapati,Senapati,MATCHED,1.0,Exact match in parent state
+Manipur / Tamenglong,Tamenglong,MATCHED,1.0,Exact match in parent state
+Manipur / Thoubal,Thoubal,MATCHED,1.0,Exact match in parent state
+Manipur / Ukhrul,Ukhrul,MATCHED,1.0,Exact match in parent state
+Manipur / Kakching,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Kamjong,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Kangpokpi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Jiribam,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Noney,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Pherzawl,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Tengnoupal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Manipur / Narcotic,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Garo Hills East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Garo Hills North,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Garo Hills South,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Garo Hills South West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Garo Hills West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Jaintia Hills West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Jaintia Hills East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Khasi Hills East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Khasi Hills South West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Khasi Hills West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Ri-Bhoi,Ri-Bhoi,MATCHED,1.0,Exact match in parent state
+Meghalaya / Cyber Cell,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Meghalaya / Khasi Hills Eastern West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Mizoram / Aizawl,Aizawl,MATCHED,1.0,Exact match in parent state
+Mizoram / Champhai,Champhai,MATCHED,1.0,Exact match in parent state
+Mizoram / Kolasib,Kolasib,MATCHED,1.0,Exact match in parent state
+Mizoram / Lawngtlai,Lawngtlai,MATCHED,1.0,Exact match in parent state
+Mizoram / Lunglei,Lunglei,MATCHED,1.0,Exact match in parent state
+Mizoram / Mamit,Mamit,MATCHED,1.0,Exact match in parent state
+Mizoram / Saiha,Saiha,MATCHED,1.0,Exact match in parent state
+Mizoram / Serchhip,Serchhip,MATCHED,1.0,Exact match in parent state
+Mizoram / Spl Narcotic,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Mizoram / Saitual,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Mizoram / Khawzawl,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Mizoram / Hnahthial,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Mizoram / Cyber,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Nagaland / Dimapur,Dimapur,MATCHED,1.0,Exact match in parent state
+Nagaland / Kiphire,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Nagaland / Kohima,Kohima,MATCHED,1.0,Exact match in parent state
+Nagaland / Longleng,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Nagaland / Mokokchung,Mokokchung,MATCHED,1.0,Exact match in parent state
+Nagaland / Mon,Mon,MATCHED,1.0,Exact match in parent state
+Nagaland / Peren,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Nagaland / Phek,Phek,MATCHED,1.0,Exact match in parent state
+Nagaland / Tuensang,Tuensang,MATCHED,1.0,Exact match in parent state
+Nagaland / Wokha,Wokha,MATCHED,1.0,Exact match in parent state
+Nagaland / Zunheboto,Zunheboto,MATCHED,1.0,Exact match in parent state
+Odisha / Angul,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Balasore,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Baragarh,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Berhampur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Bhadrak,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Bolangir,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Boudh,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Cuttack,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / DCP BBSR,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / DCP CTC,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Deogarh,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Dhenkanal,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Gajapati,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Ganjam,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Jagatsinghpur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Jajpur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Jharsuguda,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Kalahandi,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Kandhamal,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Kendrapara,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Keonjhar,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Khurda,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Koraput,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Malkangiri,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Mayurbhanj,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Nayagarh,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Nabarangpur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Nuapada,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Puri,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Rayagada,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Rourkela,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Sambalpur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Sonepur,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / SRP(Cuttack),N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / SRP(Rourkela),N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / Sundargarh,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Odisha / CID CB,N/A,UNMATCHED,0.0,Parent state 'Odisha' not found in district GIS data
+Punjab / Amritsar Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Barnala,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Batala,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Bathinda,Bathinda,MATCHED,1.0,Exact match in parent state
+Punjab / CP Amritsar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / CP Jalandhar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / CP Ludhiana,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Faridkot,Faridkot,MATCHED,1.0,Exact match in parent state
+Punjab / Fatehgarh Sahib,Fatehgarh Sahib,MATCHED,1.0,Exact match in parent state
+Punjab / Fazilka,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Ferozepur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Gurdaspur,Gurdaspur,MATCHED,1.0,Exact match in parent state
+Punjab / Hoshiarpur,Hoshiarpur,MATCHED,1.0,Exact match in parent state
+Punjab / Jalandhar Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Kapurthala,Kapurthala,MATCHED,1.0,Exact match in parent state
+Punjab / Khanna,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Ludhiana Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Mansa,Mansa,MATCHED,1.0,Exact match in parent state
+Punjab / Moga,Moga,MATCHED,1.0,Exact match in parent state
+Punjab / Muktsar,Muktsar,MATCHED,1.0,Exact match in parent state
+Punjab / Pathankot,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Patiala,Patiala,MATCHED,1.0,Exact match in parent state
+Punjab / Ropar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Sangrur,Sangrur,MATCHED,1.0,Exact match in parent state
+Punjab / SAS Nagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / SBS Nagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Tarn Taran,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Bureau of Investigation,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Intelligence Wing,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / NRI Wing,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Special Task Force,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Punjab / Malerkotla,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Ajmer,Ajmer,MATCHED,1.0,Exact match in parent state
+Rajasthan / Alwar,Alwar,MATCHED,1.0,Exact match in parent state
+Rajasthan / Banswara,Banswara,MATCHED,1.0,Exact match in parent state
+Rajasthan / Baran,Baran,MATCHED,1.0,Exact match in parent state
+Rajasthan / Barmer,Barmer,MATCHED,1.0,Exact match in parent state
+Rajasthan / Bharatpur,Bharatpur,MATCHED,1.0,Exact match in parent state
+Rajasthan / Bhilwara,Bhilwara,MATCHED,1.0,Exact match in parent state
+Rajasthan / Bikaner,Bikaner,MATCHED,1.0,Exact match in parent state
+Rajasthan / Bundi,Bundi,MATCHED,1.0,Exact match in parent state
+Rajasthan / Chittorgarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Churu,Churu,MATCHED,1.0,Exact match in parent state
+Rajasthan / Dausa,Dausa,MATCHED,1.0,Exact match in parent state
+Rajasthan / Dholpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Dungarpur,Dungarpur,MATCHED,1.0,Exact match in parent state
+Rajasthan / GRP Ajmer,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / GRP Jodhpur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Ganganagar,Ganganagar,MATCHED,1.0,Exact match in parent state
+Rajasthan / Hanumangarh,Hanumangarh,MATCHED,1.0,Exact match in parent state
+Rajasthan / Jaipur East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaipur North,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaipur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaipur South,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaipur West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaisalmer,Jaisalmer,MATCHED,1.0,Exact match in parent state
+Rajasthan / Jalore,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jhalawar,Jhalawar,MATCHED,1.0,Exact match in parent state
+Rajasthan / Jhunjhunu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jodhpur East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jodhpur West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jodhpur Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Karauli,Karauli,MATCHED,1.0,Exact match in parent state
+Rajasthan / Kota City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Kota Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Nagaur,Nagaur,MATCHED,1.0,Exact match in parent state
+Rajasthan / Pali,Pali,MATCHED,1.0,Exact match in parent state
+Rajasthan / Pratapgarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Rajsamand,Rajsamand,MATCHED,1.0,Exact match in parent state
+Rajasthan / Sawai Madhopur,Sawai Madhopur,MATCHED,1.0,Exact match in parent state
+Rajasthan / Sikar,Sikar,MATCHED,1.0,Exact match in parent state
+Rajasthan / Sirohi,Sirohi,MATCHED,1.0,Exact match in parent state
+Rajasthan / Tonk,Tonk,MATCHED,1.0,Exact match in parent state
+Rajasthan / Udaipur,Udaipur,MATCHED,1.0,Exact match in parent state
+Rajasthan / Jaipur Metro,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / SCRB,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / SOG,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / SSB,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Jaipur Crime,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Rajasthan / Bhiwadi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Gangtok (East),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Mangan (North),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Namchi (South),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Soreng (West),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Pakyong (East),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Sikkim / Gyalshing (West),N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Ariyalur,Ariyalur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Chennai,Chennai,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Coimbatore,Coimbatore,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Coimbatore City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Cuddalore,Cuddalore,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Dharmapuri,Dharmapuri,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Dindigul,Dindigul,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Erode,Erode,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Kanchipuram,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Kanyakumari,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Karur,Karur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Krishnagiri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Madurai,Madurai,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Madurai City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Nagapattinam,Nagapattinam,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Namakkal,Namakkal,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Nilgiris,Nilgiris,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Perambalur,Perambalur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Pudukottai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Ramnathapuram,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Railway Chennai,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Tamil Nadu / Railway Trichy,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Tamil Nadu / Salem,Salem,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Salem City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Sivagangai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Thanjavur,Thanjavur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Theni,Theni,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Thirunelveli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Thirunelveli City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Thiruvallur,Thiruvallur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Thiruvannamalai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Thiruvarur,Thiruvarur,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Thoothukudi,Thoothukudi,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Tiruppur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Tiruppur City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Trichy,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Trichy City,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Vellore,Vellore,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Villupuram,Villupuram,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Virudhunagar,Virudhunagar,MATCHED,1.0,Exact match in parent state
+Tamil Nadu / Cyber Cell,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Other Units,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Chengalpattu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Kallakurichi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Ranipet,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Tiruppattur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Tenkasi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Avadi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tamil Nadu / Tambaram,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Telangana / Cyberabad Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Hyderabad Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Karimnagar Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Khammam Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Nizamabad Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Rachakonda Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Ramagundam Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Siddipet Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Warangal Commissionerate,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Adilabad,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Bhadradri Kothagudem,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Jagityal,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Jayashankar Bhupalpalli,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Jogulamba Gadwal,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Kamareddy,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Kumaram Bheem Asifabad,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Mahabubabad,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Mahabubnagar,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Medak,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Nagarkurnool,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Nalgonda,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Nirmal,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Rajanna Siricilla,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Sangareddy,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Suryapet,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Vikarabad,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Wanaparthy,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Railway Police Secunderabad,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Mulug,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Telangana / Narayanpet,N/A,UNMATCHED,0.0,Parent state 'Telangana' not found in district GIS data
+Tripura / Dhalai,Dhalai,MATCHED,1.0,Exact match in parent state
+Tripura / Gomati,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / Kowai,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / North,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / Sipahijala,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / South,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / Unakoti,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Tripura / West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Agra,Agra,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Aligarh,Aligarh,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Prayagraj,Allahabad,MATCHED,1.0,Standard alias: Allahabad
+Uttar Pradesh / Ambedkar Nagar,Ambedkar Nagar,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Amethi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Auraiya,Auraiya,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Azamgarh,Azamgarh,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Badaun,Badaun,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Baghpat,Baghpat,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Bahraich,Bahraich,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Ballia,Ballia,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Balrampur,Balrampur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Banda,Banda,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Barabanki,Bara Banki,MATCHED,0.9,Normalized district match in state
+Uttar Pradesh / Bareilly,Bareilly,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Basti,Basti,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Bijnor,Bijnor,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Bulandshahar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Chandoli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Chitrakoot,Chitrakoot,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Deoria,Deoria,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Etah,Etah,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Etawah,Etawah,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Ayodhya,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Fatehgarh,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Fatehpur,Fatehpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Firozabad,Firozabad,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Gautambudh Nagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Ghaziabad,Ghaziabad,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Ghazipur,Ghazipur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Gonda,Gonda,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Gorakhpur,Gorakhpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Hamirpur,Hamirpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Hapur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Hardoi,Hardoi,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Hathras,Hathras,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Jalaun,Jalaun,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Jaunpur,Jaunpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Jhansi,Jhansi,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Kannauj,Kannauj,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Kanpur Dehat,Kanpur Dehat,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Kanpur Commissionarate,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Kasganj,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Kaushambi,Kaushambi,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Khiri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Kushi Nagar,Kushinagar,MATCHED,0.9,Normalized district match in state
+Uttar Pradesh / Lalitpur,Lalitpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Lucknow Commissionarate,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Maharajganj,Maharajganj,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Mahoba,Mahoba,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Mainpuri,Mainpuri,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Mathura,Mathura,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Mau,Mau,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Meerut,Meerut,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Mirzapur,Mirzapur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Moradabad,Moradabad,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Muzaffarnagar,Muzaffarnagar,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Pilibhit,Pilibhit,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Pratapgarh,Pratapgarh,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Raibareilly,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Rampur,Rampur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Saharanpur,Saharanpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Sambhal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Sant Kabirnagar,Sant Kabir Nagar,MATCHED,0.9,Normalized district match in state
+Uttar Pradesh / Shahjahanpur,Shahjahanpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Shamli,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Shrawasti,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Sidharthnagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Sitapur,Sitapur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Sonbhadra,Sonbhadra,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Bhadohi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Sultanpur,Sultanpur,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Unnao,Unnao,MATCHED,1.0,Exact match in parent state
+Uttar Pradesh / Varanasi Commissionarate,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Lucknow Grameen,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Kanpur Outer,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttar Pradesh / Vasanasi Dehat,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Uttarakhand / Almora,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Bageshwar,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Chamoli,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Champawat,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Dehradun,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Haridwar,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Nainital,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Pauri Garhwal,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Pithoragarh,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Rudra Prayag,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Tehri Garhwal,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Udhamsingh Nagar,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Uttarkashi,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / GRP,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+Uttarakhand / Cyber Cell,N/A,UNMATCHED,0.0,Parent state 'Uttarakhand' not found in district GIS data
+West Bengal / Alipurduar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Asansol-Durgapur PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Bankura,Bankura,MATCHED,1.0,Exact match in parent state
+West Bengal / Barrackpur PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Bidhannagar PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Birbhum,Birbhum,MATCHED,1.0,Exact match in parent state
+West Bengal / Coochbehar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Dakshin Dinajpur,Dakshin Dinajpur,MATCHED,1.0,Exact match in parent state
+West Bengal / Darjeeling,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Hooghly Rural Police,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Howrah GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Howrah PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Howrah Rural,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Jalpaiguri,Jalpaiguri,MATCHED,1.0,Exact match in parent state
+West Bengal / Jhargram,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Kharagpur GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Kolkata,Kolkata,MATCHED,1.0,Exact match in parent state
+West Bengal / Malda,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Murshidabad Police District,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Paschim Medinipur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Purab Medinipur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Purulia,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Sealdah GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Siliguri GRP,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Siliguri PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Baruipur Police,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Chandannagar PC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Diamond Harbour Police,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Kalimpong,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Purba Bardhaman,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Sundarban Police,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Barasat,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Basirhat,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Bangaon,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Islampur,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Jangipur Police District,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Krishnagar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Raiganj,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+West Bengal / Ranaghat,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andaman and Nicobar Islands / South Andaman,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andaman and Nicobar Islands / North & Middle Andaman,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Andaman and Nicobar Islands / Nicobar,Nicobar Islands,MATCHED,0.9,Normalized district match in state
+Chandigarh / Chandigarh,Chandigarh,MATCHED,1.0,Exact match in parent state
+Dadra and Nagar Haveli and Daman and Diu / Dadra and Nagar Haveli,N/A,UNMATCHED,0.0,Parent state 'Dadra and Nagar Haveli and Daman and Diu' not found in district GIS data
+Dadra and Nagar Haveli and Daman and Diu / Daman,N/A,UNMATCHED,0.0,Parent state 'Dadra and Nagar Haveli and Daman and Diu' not found in district GIS data
+Dadra and Nagar Haveli and Daman and Diu / Diu,N/A,UNMATCHED,0.0,Parent state 'Dadra and Nagar Haveli and Daman and Diu' not found in district GIS data
+Delhi / Central,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Crime Branch,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / EOW,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / IGI Airport,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Metro,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / New Delhi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / North,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / North-East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / North-West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Outer,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / RAILWAY,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Delhi / South,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / South-East,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / South-West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Spl Cell,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / SPUWAC,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Vigilance,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / West,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Rohini,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Shahdara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Dwarka,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Delhi / Outer North,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Anantnag,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Awantipora,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Bandipora,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Baramulla,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Budgam,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Special Crime Wing Jammu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Special Crime Wing Kashmir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Doda,Doda,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Ganderbal,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Handwara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Jammu,Jammu,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Kathua,Kathua,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Kishtwar,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Kulgam,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Kupwara,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Poonch,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Pulwama,Pulwama,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Railways Jammu,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Jammu and Kashmir / Railways Kashmir,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Jammu and Kashmir / Railways Katra,N/A,UNMATCHED,0.0,Specialized police jurisdiction without discrete GADM boundary
+Jammu and Kashmir / Rajouri,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Ramban,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Reasi,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Samba,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Shopian,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Sopore,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Srinagar,Srinagar,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Udhampur,Udhampur,MATCHED,1.0,Exact match in parent state
+Jammu and Kashmir / Cyber Crime Jammu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Cyber Crime Kashmir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Anti Narcotic Task Force Jammu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / Anti Narcotic Task Force Kashmir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / EOW Jammu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / EOW Kashmir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / CICE Jammu,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Jammu and Kashmir / CICE Kashmir,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Ladakh / Kargil,N/A,UNMATCHED,0.0,Parent state 'Ladakh' not found in district GIS data
+Ladakh / Leh,N/A,UNMATCHED,0.0,Parent state 'Ladakh' not found in district GIS data
+Lakshadweep / Lakshadweep,N/A,UNMATCHED,0.0,District boundary unavailable in GeoJSON
+Puducherry / Karaikal,Karaikal,MATCHED,1.0,Exact match in parent state
+Puducherry / Puducherry,Puducherry,MATCHED,1.0,Exact match in parent state

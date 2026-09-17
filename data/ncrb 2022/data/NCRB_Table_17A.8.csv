@@ -1,0 +1,63 @@
+Sl. No.,Crime Head,Within 2 Months,2 to 3 Months,3 to 6 Months,6 to 12 Months,1 to 2 Years,More than 2 Years,Total FR Submitted
+1,Murder,900,760,1092,1374,1056,579,5761
+2,Culpable Homicide not amounting to Murder,116,122,148,93,86,24,589
+3,Causing Death by Negligence,7152,8493,9804,8459,4914,839,39661
+4,Dowry Deaths,229,209,185,136,88,17,864
+5,Abetment of Suicide,299,350,330,284,143,39,1445
+6,Attempt to Commit Murder,719,1231,1691,837,839,221,5538
+7,Attempt to commit Culpable Homicide,154,117,136,122,55,11,595
+8,Attempt to Commit Suicide,38,72,96,109,78,12,405
+9,"Miscarriage, Infanticide, Foeticide and Abandonment",119,245,305,151,74,15,909
+10,Hurt,12606,14059,14736,10328,9274,3038,64041
+11,Wrongful Restraint/Confinement,6643,5010,1860,1001,717,66,15297
+12,Assault on Women with Intent to Outrage her Modesty,4856,3563,2503,1718,1049,185,13874
+13,Kidnapping and Abduction,20822,17880,15558,11226,5881,1405,72772
+14,Human Trafficking,26,15,30,39,81,12,203
+15,Exploitation of Trafficked Person,5,1,1,0,9,8,24
+16,Selling of Minors for Prostitution,0,0,5,3,10,6,24
+17,Buying of Minors for Prostitution,0,0,0,0,0,0,0
+18,Rape,2129,2096,1472,836,753,147,7433
+19,Attempt to Commit Rape,429,364,162,87,86,16,1144
+20,Unnatural Offences,50,41,24,7,13,2,137
+Offences Affecting the Human Body (Total),Offences Affecting the Human Body (Total),57292,54628,50138,36810,25206,6642,230716
+21,Offences against State,19,3,4,10,16,18,70
+Offences against the State (Total),Offences against the State (Total),19,3,4,10,16,18,70
+22,Unlawful Assembly,719,469,307,345,438,219,2497
+23,Riots,1062,1044,1166,1153,765,191,5381
+24,Offences promoting enmity between different groups,55,65,91,73,58,43,385
+25,Affray,56,42,3,8,2,2,113
+Offences against Public Tranquillity (Total),Offences against Public Tranquillity (Total),1892,1620,1567,1579,1263,455,8376
+26,Theft,121346,113330,109001,73576,24643,6088,447984
+27,Burglary,11271,13735,15188,11881,7542,1448,61065
+28,Extortion & Blackmailing,823,692,651,553,437,90,3246
+29,Robbery,2111,1650,1806,1700,1212,349,8828
+30,Attempt to Commit Dacoity/Robbery,11,20,16,15,14,1,77
+31,Dacoity,308,89,130,87,109,20,743
+32,Making Preparation and Assembly for committing Dacoity,41,3,2,1,7,2,56
+33,Criminal Misappropriation,3,3,9,10,3,1,29
+34,Criminal Breach of Trust,1122,1249,1670,1870,1593,509,8013
+35,Dishonestly Receiving/Dealing-in Stolen Property,107,60,113,94,65,21,460
+Offences against Property (Total),Offences against Property (Total),137143,130831,128586,89787,35625,8529,530501
+36,Counterfeiting,42,37,51,50,62,59,301
+37,"Forgery, Cheating & Fraud",11607,14008,19313,18582,11529,3134,78173
+Offences Relating to Documents & Property Marks (Total),Offences Relating to Documents & Property Marks (Total),11649,14045,19364,18632,11591,3193,78474
+38,Offences relating to Elections,92,68,47,21,35,7,270
+39,Disobedience to order duly promulgated by Public Servant,945,627,1492,421,1027,155,4667
+40,Harbouring an Offender,1,2,0,0,3,0,6
+41,Offences relating to Adulteration or Sale of Food/Drugs,247,147,25,15,2,1,437
+42,Rash Driving on Public way,8188,8250,7987,5760,5717,579,36481
+43,Obstruction on Public way,44,54,32,11,8,5,154
+44,Sale of obscene Books/Objects,7,5,5,0,2,0,19
+45,Obscene Acts and Songs at Public Places,404,193,209,140,117,37,1100
+46,Offences relating to Religion,85,107,128,107,49,11,487
+47,Cheating by Impersonation,27,33,46,46,386,18,556
+48,Offences related to Mischief,86,158,174,133,57,21,629
+49,Arson,669,600,723,727,855,639,4213
+50,Criminal Trespass,2399,2338,1786,1038,679,205,8445
+51,Cruelty by Husband or his Relatives,6684,5679,4644,2369,2727,350,22453
+52,Circulate False/Fake News/Rumours,53,82,62,89,53,20,359
+53,Criminal Intimidation,6292,3565,1851,709,364,59,12840
+54,Insult to the Modesty of Women,379,339,257,174,144,30,1323
+Miscellaneous IPC Crimes(Total),Miscellaneous IPC Crimes(Total),26602,22247,19468,11760,12225,2137,94439
+55,Other IPC crimes,18311,16678,12548,17980,34414,3657,103588
+Total Cognizable IPC crimes,Total Cognizable IPC crimes,252908,240052,231675,176558,120340,24631,1046164

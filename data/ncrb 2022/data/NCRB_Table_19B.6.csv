@@ -1,0 +1,21 @@
+Sl. No.,City,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Transgender,Persons Arrested - Total,Persons Charge sheeted - Male,Persons Charge sheeted - Female,Persons Charge sheeted - Transgender,Persons Charge sheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Transgender,Persons Convicted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Transgender,Persons Discharged - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Transgender,Persons Acquitted - Total
+1,Ahmedabad (Gujarat),26251,2596,16,28863,26251,2596,16,28863,6184,82,0,6266,92,11,0,103,16160,1308,0,17468
+2,Bengaluru (Karnataka),23351,2201,18,25570,24895,2033,22,26950,6684,179,3,6866,47,2,0,49,6920,475,0,7395
+3,Chennai (Tamil Nadu),26942,4242,21,31205,8413,669,0,9082,3045,394,0,3439,1,0,0,1,7628,281,0,7909
+4,Coimbatore (Tamil Nadu),5896,356,0,6252,4511,334,0,4845,1723,58,0,1781,0,0,0,0,2213,50,0,2263
+5,Delhi,123650,3182,22,126854,104095,3305,24,107424,49497,467,0,49964,1590,67,0,1657,6476,135,0,6611
+6,Ghaziabad (Uttar Pradesh),4563,9,0,4572,7747,9,0,7756,746,0,0,746,0,0,0,0,256,10,0,266
+7,Hyderabad (Telangana),4660,347,0,5007,14032,758,0,14790,3938,24,0,3962,0,0,0,0,2382,179,0,2561
+8,Indore (Madhya Pradesh),4784,183,0,4967,16626,1101,0,17727,3089,48,0,3137,0,0,0,0,2283,151,0,2434
+9,Jaipur (Rajasthan),15922,1175,0,17097,16430,1224,0,17654,3287,137,0,3424,1619,54,0,1673,2305,94,0,2399
+10,Kanpur (Uttar Pradesh),13413,111,0,13524,12075,61,0,12136,4819,37,0,4856,0,0,0,0,3679,59,0,3738
+11,Kochi (Kerala),12461,192,12,12665,14115,281,12,14408,11587,28,0,11615,0,0,0,0,1244,74,0,1318
+12,Kolkata (West Bengal),8255,1076,0,9331,7578,145,0,7723,4627,99,0,4726,79,0,0,79,449,0,0,449
+13,Kozhikode (Kerala),3493,239,0,3732,10996,363,2,11361,4224,2,0,4226,37,0,0,37,1080,18,0,1098
+14,Lucknow (Uttar Pradesh),14489,399,0,14888,17450,399,0,17849,25,0,0,25,13,0,0,13,0,0,0,0
+15,Mumbai (Maharashtra),72726,2308,5,75039,60989,1669,5,62663,18825,63,0,18888,6779,38,0,6817,8612,157,0,8769
+16,Nagpur (Maharashtra),10164,528,64,10756,15269,1279,22,16570,4511,10,0,4521,0,0,0,0,4894,162,0,5056
+17,Patna (Bihar),20004,243,0,20247,22837,96,0,22933,20,0,0,20,0,0,0,0,145,0,0,145
+18,Pune (Maharashtra),13332,848,2,14182,13953,798,2,14753,648,3,0,651,798,0,0,798,3481,119,0,3600
+19,Surat (Gujarat),12041,969,0,13010,12041,969,0,13010,902,0,0,902,0,0,0,0,244,0,0,244
+Total Cities ,Total Cities ,416397,21204,160,437761,410303,18089,105,428497,128381,1631,3,130015,11055,172,0,11227,70451,3272,0,73723

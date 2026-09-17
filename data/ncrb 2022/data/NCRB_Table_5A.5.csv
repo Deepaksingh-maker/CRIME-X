@@ -1,0 +1,40 @@
+Sl. No.,State/UT,Number of Juveniles whose Cases pending disposal at the beginning of the year - Col.(3),Juveniles Apprehended During the Year - Col.(4),Total Number of Juveniles Apprehended (Col. 3+4) - Col.(5),Juveniles discharged during Investigation (cases un-occurred/ quashed/ Discharged by courts) - Col.(6),Juveniles sent home after advice or admonition - Col.(7),Juveniles Sent to Special Home or Fit Institute - Col.(8),Juveniles dealt with fine - Col.(9),Juveniles awarded Imprisonment - Col.(10),Juveniles Acquitted or Discharged - Col.(11),Percentage of Juveniles held Guilty - Col.(12),Pending Disposal (Col.5-(Col.6 to Col.11)) - Col.(13)
+1,Andhra Pradesh,1328,1220,2548,53,1029,132,60,16,261,82.6,997
+2,Arunachal Pradesh,57,33,90,5,9,0,0,0,0,100,76
+3,Assam,233,260,493,2,147,5,0,0,50,75.2,289
+4,Bihar,1718,1444,3162,0,253,207,102,2,205,73.3,2393
+5,Chhattisgarh,2466,2955,5421,161,1186,550,281,69,251,89.3,2923
+6,Goa,90,30,120,2,4,4,6,0,6,70,98
+7,Gujarat,1574,1774,3348,0,1094,442,8,1,70,95.7,1733
+8,Haryana,1893,1569,3462,23,422,432,265,95,453,72.8,1772
+9,Himachal Pradesh,237,209,446,0,114,32,2,0,23,86.5,275
+10,Jharkhand,87,146,233,0,0,0,0,1,3,25,229
+11,Karnataka,403,710,1113,5,374,94,34,2,82,86,522
+12,Kerala,307,613,920,3,443,66,12,0,26,95.2,370
+13,Madhya Pradesh,8100,4294,12394,175,2635,673,2220,150,846,87,5695
+14,Maharashtra,7930,5719,13649,193,3802,408,97,0,173,96.1,8976
+15,Manipur,39,33,72,0,0,8,0,0,0,100,64
+16,Meghalaya,173,83,256,1,2,13,18,1,23,59.6,198
+17,Mizoram,12,52,64,0,2,19,0,0,2,91.3,41
+18,Nagaland,7,5,12,0,5,0,0,0,0,100,7
+19,Odisha,28,1290,1318,0,18,1239,0,0,2,99.8,59
+20,Punjab,377,558,935,57,91,198,16,20,67,82.9,486
+21,Rajasthan,1761,3922,5683,130,1077,2042,413,88,148,96.1,1785
+22,Sikkim,25,9,34,0,1,2,0,1,5,44.4,25
+23,Tamil Nadu,4318,3287,7605,170,1044,751,189,35,510,79.8,4906
+24,Telangana,1245,1233,2478,104,1057,209,90,12,116,92.2,890
+25,Tripura,14,41,55,6,10,25,1,0,0,100,13
+26,Uttar Pradesh,1531,1674,3205,90,114,578,212,119,149,87.3,1943
+27,Uttarakhand,80,170,250,0,80,10,0,0,0,100,160
+28,West Bengal,1143,649,1792,102,230,135,9,15,126,75.5,1175
+Total State (S),Total State (S),37176,33982,71158,1282,15243,8274,4035,627,3597,88.7,38100
+29,Andaman and Nicobar Islands,128,28,156,0,0,0,4,0,2,66.7,150
+30,Chandigarh,152,116,268,4,0,4,2,65,58,55,135
+31,Dadra and Nagar Haveli and Daman and Diu,34,59,93,0,2,4,0,0,28,17.6,59
+32,Delhi,2126,3002,5128,422,1735,729,61,4,283,89.9,1894
+33,Jammu and Kashmir,552,456,1008,50,132,34,7,8,113,61.6,664
+34,Ladakh,0,0,0,0,0,0,0,0,0,NA,0
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,NA,0
+36,Puducherry,495,137,632,11,0,0,19,0,23,45.2,579
+Total UT (S),Total UT (S),3487,3798,7285,487,1869,771,93,77,507,84.7,3481
+Total All India,Total All India,40663,37780,78443,1769,17112,9045,4128,704,4104,88.3,41581

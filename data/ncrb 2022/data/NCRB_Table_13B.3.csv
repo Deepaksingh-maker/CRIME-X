@@ -1,0 +1,29 @@
+Sl. No. - Col. (1),Crime Head - Col. (2),Cases Pending Investigation from Previous Year - Col. (3),Cases Reported during the year - Col. (4),Cases Reopened for Investigation - Col. (5),Total Cases for Investigation (Col.3+Col.4+Col.5) - Col. (6),Cases Not Investigated Under 157_1_b CRPC - Col. (7),Cases Transferred to Other State or Agency - Col. (8),Cases Withdrawn by the Govt during Investigation - Col. (9),Final Report - Cases Ended as FR Non Cognizable - Col. (10),Final Report - Cases Ended as Final Report False - Col. (11),Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col. (12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col. (13),Final Report - Cases Abated during Investigation - Col. (14),Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col. (15),Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Previous Year - Col. (16),Charge Sheets Submitted - Cases Charge Sheeted out of Cases during the year - Col. (17),Charge Sheets Submitted - Cases Charge Sheeted (Col.16+Col.17) - Col. (18),Total Cases Disposed Off by Police (Col.7+8+15+18) - Col. (19),Cases Quashed at Investigation Stage - Col. (20),Cases Stayed at Investigation Stage - Col. (21),Cases Pending Invsgn.at end of the year (Col.6-9-19-20) - Col. (22),Chargesheeting Rate (Col.18/19*100) - Col. (23),Pendency Percentage (Col.22/6*100) - Col. (24)
+1,Murder,6,15,0,21,0,0,0,0,0,0,0,0,0,1,13,14,14,0,1,7,100,33.3
+2,Attempt to Commit Murder,2,12,0,14,0,0,0,0,0,0,0,0,0,2,9,11,11,0,0,3,100,21.4
+3,Culpable Homicide not Amounting to Murder,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,100
+4,Hurt,5,16,0,21,0,0,0,0,0,0,0,0,0,0,11,11,11,0,1,10,100,47.6
+5,Grievous Hurt,2,1,0,3,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,1,100,33.3
+6,Kidnapping and Abduction,2,5,0,7,0,0,0,0,1,0,0,0,1,1,3,4,5,0,0,2,80,28.6
+7,Human Trafficking,6,3,0,9,0,0,0,0,0,0,0,0,0,2,1,3,3,0,0,6,100,66.7
+8,Rape,7,12,0,19,0,0,0,0,0,0,0,0,0,1,10,11,11,0,0,8,100,42.1
+9,Unnatural Offences,1,3,0,4,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0,1,100,25
+10,Theft,32,34,0,66,0,0,0,0,0,0,1,0,1,0,25,25,26,0,0,40,96.2,60.6
+11,Extortion,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+12,Robbery,1,5,0,6,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0,3,100,50
+13,Dacoity,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,100,0
+14,Cheating,139,58,1,198,0,0,0,0,2,1,1,0,4,22,38,60,64,0,0,134,93.8,67.7
+15,Forgery,85,38,0,123,0,0,0,0,1,0,0,0,1,9,24,33,34,0,0,89,97.1,72.4
+16,Counterfeiting,3,2,0,5,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,4,100,80
+17,Other IPC Crimes,74,87,0,161,0,0,0,0,0,0,4,0,4,10,73,83,87,0,0,74,95.4,46
+18,Foreigner Act & Registration of Foreigners Act,517,1022,0,1539,0,0,0,0,0,7,16,0,23,176,842,1018,1041,0,0,498,97.8,32.4
+19,Narcotic Drugs & Psychotropic Substances Act,243,410,0,653,0,2,0,0,1,0,1,0,2,102,285,387,391,0,0,262,99,40.1
+20,Passport Act,154,218,0,372,0,0,0,0,0,1,1,0,2,23,119,142,144,0,1,228,98.6,61.3
+21,Arms Act,29,25,0,54,0,0,0,0,1,0,0,0,1,8,15,23,24,0,0,30,95.8,55.6
+22,POCSO Act,1,6,0,7,0,0,0,0,0,0,0,0,0,0,6,6,6,0,0,1,100,14.3
+23,Information Technology Act,79,26,1,106,0,0,0,0,0,0,4,0,4,0,22,22,26,0,0,80,84.6,75.5
+24,Explosives and Explosive Substances Act,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,100
+25,Copy Right Act,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+26,The Unlawful Activities (P) Act,2,3,0,5,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,4,100,80
+27,Other SLL Crimes,107,96,0,203,0,0,0,0,1,0,4,0,5,31,76,107,112,0,0,91,95.5,44.8
+Total Crimes Committed by Foreigners,Total Crimes Committed by Foreigners,1500,2100,2,3602,0,2,0,0,7,9,32,0,48,390,1581,1971,2021,0,3,1581,97.5,43.9

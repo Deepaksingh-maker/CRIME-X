@@ -1,0 +1,42 @@
+Sl. No. - Col. (1),Crime Head - Col. (2),Cases Pending Investigation from Previous Year - Col. (3),Cases Reported during the year - Col. (4),Cases Reopened for Investigation - Col. (5),Total Cases for Investigation (Col.3+Col.4+Col.5) - Col. (6),Cases Not Investigated Under 157_1_b CRPC - Col. (7),Cases Transferred to Other State or Agency - Col. (8),Cases Withdrawn by the Govt during Investigation - Col. (9),Final Report - Cases Ended as FR Non Cognizable - Col. (10),Final Report - Cases Ended as Final Report False - Col. (11),Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col. (12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col. (13),Final Report - Cases Abated during Investigation - Col. (14),Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col. (15),Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Previous Year - Col. (16),Charge Sheets Submitted - Cases Charge sheeted Out of Cases during the year - Col. (17),Charge Sheets Submitted - Cases Charge sheeted (Col.16+Col.17) - Col. (18),Total Cases Disposed Off by Police (Col.7+8+15+18) - Col. (19),Cases Quashed at Investigation Stage - Col. (20),Cases Stayed at Investigation Stage - Col. (21),Cases Pending Investigation at end of the year (Col.6-9-19-20) - Col. (22),Chargesheeting Rate (Col.18/19*100) - Col. (23),Pendency Percentage (Col.22/6*100) - Col. (24)
+1.1,Murder,4,5,0,9,0,0,0,0,0,0,0,0,0,1,4,5,5,0,0,4,100,44.4
+1.2,Culpable Homicide not amounting to Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1.3,Attempt to Commit Murder/Culpable Homicide,1,2,0,3,0,0,0,0,0,0,0,0,0,1,2,3,3,0,0,0,100,0
+1.4,Simple Hurt,9,3,0,12,0,0,0,0,2,0,0,0,2,2,1,3,5,0,0,7,60,58.3
+1.5,Grievous Hurt,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+1.6,Assault on Women with Intent to Outrage her Modesty,21,8,0,29,0,0,0,0,1,0,0,0,1,2,1,3,4,0,0,25,75,86.2
+1.7,Kidnapping and Abduction,8,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,NA,100
+1.8,Human Trafficking,4,3,0,7,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,6,100,85.7
+1.9,Rape,12,13,0,25,0,0,0,0,0,1,0,0,1,1,9,10,11,0,0,14,90.9,56
+1.1,Theft,171,21,0,192,0,0,0,0,5,1,13,0,19,1,1,2,21,0,0,171,9.5,89.1
+1.11,Extortion,0,2,0,2,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,50
+1.12,Robbery,14,4,0,18,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,16,100,88.9
+1.13,Dacoity,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+1.14,Cheating,39,12,0,51,0,0,0,0,1,0,0,0,1,1,3,4,5,0,0,46,80,90.2
+1.15,Forgery,32,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,NA,100
+1.16,Insult to the Modesty of Women,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1.17,Other IPC Crimes,34,14,0,48,0,0,0,0,0,0,0,0,0,1,6,7,7,0,1,41,100,85.4
+1.18,Immoral Traffic (Prevention) Act,8,6,0,14,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,12,100,85.7
+1.19,Other SLL Crimes,25,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,NA,100
+Total Crimes against Tourist Foreigners,Total Crimes against Tourist Foreigners,384,93,0,477,0,0,0,0,9,2,14,0,25,10,32,42,67,0,1,410,62.7,86
+2.1,Murder,3,9,0,12,0,0,0,0,0,0,0,0,0,1,5,6,6,0,0,6,100,50
+2.2,Culpable Homicide not amounting to Murder,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,100,0
+2.3,Attempt to Commit Murder/Culpable Homicide,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,100,0
+2.4,Simple Hurt,2,4,0,6,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0,3,100,50
+2.5,Grievous Hurt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+2.6,Assault on Women with Intent to Outrage her Modesty,4,5,0,9,0,0,0,0,0,0,0,0,0,1,4,5,5,1,0,3,100,33.3
+2.7,Kidnapping and Abduction,4,7,0,11,0,0,0,0,6,0,1,0,7,1,1,2,9,0,0,2,22.2,18.2
+2.8,Human Trafficking,5,6,0,11,0,0,0,0,0,0,0,0,0,2,2,4,4,0,0,7,100,63.6
+2.9,Rape,4,15,0,19,0,0,0,0,0,0,0,0,0,3,14,17,17,0,0,2,100,10.5
+2.1,Theft,15,13,0,28,0,0,0,0,0,1,5,0,6,0,3,3,9,0,0,19,33.3,67.9
+2.11,Extortion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+2.12,Robbery,3,2,0,5,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,3,100,60
+2.13,Dacoity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+2.14,Cheating,13,9,0,22,0,0,0,0,1,1,3,0,5,0,0,0,5,0,0,17,0,77.3
+2.15,Forgery,12,2,0,14,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,13,0,92.9
+2.16,Insult to the Modesty of Women,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+2.17,Other IPC Crimes,7,6,0,13,0,0,0,0,0,1,2,0,3,1,4,5,8,0,0,5,62.5,38.5
+2.18,Immoral Traffic (Prevention) Act,7,4,0,11,0,0,0,0,0,0,0,0,0,2,2,4,4,0,0,7,100,63.6
+2.19,Other SLL Crimes,17,16,0,33,0,0,0,0,0,0,0,0,0,2,12,14,14,0,0,19,100,57.6
+Total Crimes against Other Foreigners,Total Crimes against Other Foreigners,98,99,0,197,0,0,0,0,7,3,12,0,22,15,52,67,89,1,0,107,75.3,54.3
+Total Crimes against Foreigners,Total Crimes against Foreigners,482,192,0,674,0,0,0,0,16,5,26,0,47,25,84,109,156,1,1,517,69.9,76.7

@@ -1,0 +1,50 @@
+Sl. No.,Crime Head,Cases Pending Investigation from Previous Year - Col.(3),Cases Reported during the year - Col.(4),Cases Reopened for Investigation - Col.(5),Total Cases for Investigation (Col.3+Col.4+Col.5) - Col.(6),Cases Not Investigated Under 157_1_b CRPC - Col.(7),Cases Transferred to Other State or Agency - Col.(8),Cases Withdrawn by the Govt during Investigation - Col.(9),Final Report - Cases Ended as FR Non Cognizable - Col.(10),Final Report - Cases Ended as Final Report False - Col.(11),Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col.(12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col.(13),Final Report - Cases Abated during Investigation - Col.(14),Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col.(15),Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Prev. Year - Col.(16),Charge Sheets Submitted - Cases Charge sheeted Out of Cases during the year - Col.(17),Charge Sheets Submitted - Cases Charge sheeted (Col.16+Col.17) - Col.(18),Total Cases Disposed Off by Police (Col.7+8+15+18) - Col.(19),Cases Quashed at Investigation Stage - Col.(20),Cases Stayed at Investigation Stage - Col.(21),Cases Pending Invsgn.at end of the year (Col.6-9-19-20) - Col.(22),Chargesheeting Rate (Col.18/19*100) - Col.(23),Pendency Percentage (Col.22/6*100) - Col.(24)
+1A,SC/ST (Prevention of Atrocities) Act,16394,52866,337,69597,1,60,0,61,6935,1517,1767,7,10287,7567,34459,42026,52374,57,79,17166,80.2,24.7
+1A.1,Murder,386,954,14,1354,0,0,0,0,33,19,26,3,81,194,657,851,932,0,0,422,91.3,31.2
+1A.2,Attempt to Commit Murder,538,1126,1,1665,0,1,0,0,35,5,15,0,55,190,875,1065,1121,2,0,542,95,32.6
+1A.3,Simple Hurt,6554,18428,277,25259,0,2,0,21,1770,587,501,1,2880,3106,12017,15123,18005,12,18,7242,84,28.7
+1A.4,Grievous Hurt,745,1281,36,2062,0,0,0,0,28,24,22,0,74,310,853,1163,1237,3,4,822,94,39.9
+1A.4A,Grievous Hurt,706,1266,36,2008,0,0,0,0,27,24,22,0,73,308,840,1148,1221,3,4,784,94,39
+1A.4B,Acid Attack,0,3,0,3,0,0,0,0,1,0,0,0,1,0,1,1,2,0,0,1,50,33.3
+1A.4C,Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1A.4D,Other Grievous Hurt,39,12,0,51,0,0,0,0,0,0,0,0,0,2,12,14,14,0,0,37,100,72.5
+1A.5,Assault on Women with Intent to Outrage her Modesty,1008,4160,1,5169,0,0,0,3,597,79,95,1,775,451,2890,3341,4116,1,11,1052,81.2,20.4
+1A.5A,Assault on Women,915,3439,0,4354,0,0,0,3,558,73,87,0,721,396,2283,2679,3400,1,9,953,78.8,21.9
+1A.5A.1,Assault on Women with Intent to Outrage her Modesty,574,2123,0,2697,0,0,0,2,343,43,56,0,444,250,1425,1675,2119,1,6,577,79,21.4
+1A.5A.2,Sexual Harassment,178,760,0,938,0,0,0,1,131,8,23,0,163,85,503,588,751,0,2,187,78.3,19.9
+1A.5A.3,Assault or use of Criminal Force on women with intent to Disrobe,91,312,0,403,0,0,0,0,41,18,8,0,67,43,197,240,307,0,1,96,78.2,23.8
+1A.5A.4,Voyeurism,19,32,0,51,0,0,0,0,5,0,0,0,5,3,24,27,32,0,0,19,84.4,37.3
+1A.5A.5,Stalking,53,212,0,265,0,0,0,0,38,4,0,0,42,15,134,149,191,0,0,74,78,27.9
+1A.5B,Assault of Children,93,721,1,815,0,0,0,0,39,6,8,1,54,55,607,662,716,0,2,99,92.5,12.1
+1A.6,Insult to the Modesty of Women,123,226,0,349,0,0,0,0,54,12,7,0,73,40,116,156,229,0,0,120,68.1,34.4
+1A.7,Kidnapping and Abduction,316,1087,1,1404,0,0,0,0,110,84,114,0,308,73,720,793,1101,1,1,302,72,21.5
+1A.7A,Kidnapping and Abduction,155,496,0,651,0,0,0,0,32,26,42,0,100,39,396,435,535,0,0,116,81.3,17.8
+1A.7A.1,Missing Children Deemed as Kidnapped,31,215,0,246,0,0,0,0,4,4,4,0,12,4,205,209,221,0,0,25,94.6,10.2
+1A.7A.2,Other Kidnapping and Abduction,124,281,0,405,0,0,0,0,28,22,38,0,88,35,191,226,314,0,0,91,72,22.5
+1A.7B,Kidnapping and Abduction for the Purpose of Begging,0,9,0,9,0,0,0,0,0,2,0,0,2,0,6,6,8,0,0,1,75,11.1
+1A.7C,Kidnapping and Abduction in order to Murder,6,3,0,9,0,0,0,0,1,1,2,0,4,0,1,1,5,0,0,4,20,44.4
+1A.7D,Kidnapping for Ransom,2,7,0,9,0,0,0,0,0,0,0,0,0,1,5,6,6,0,0,3,100,33.3
+1A.7E,Kidnapping and Abduction of Women to compel her for marriage,87,408,1,496,0,0,0,0,26,40,67,0,133,23,238,261,394,0,1,102,66.2,20.6
+1A.7F,Procuration of Minor Girls,14,24,0,38,0,0,0,0,6,0,1,0,7,2,15,17,24,0,0,14,70.8,36.8
+1A.7G,Other Kidnapping and Abducion,52,140,0,192,0,0,0,0,45,15,2,0,62,8,59,67,129,1,0,62,51.9,32.3
+1A.8,Rape,1069,4241,2,5312,0,4,0,1,435,45,70,0,551,617,3137,3754,4309,6,1,997,87.1,18.8
+1A.8A,Rape of Women,759,2835,0,3594,0,3,0,1,409,36,61,0,507,407,1939,2346,2856,5,1,733,82.1,20.4
+1A.8B,Rape of Children,310,1406,2,1718,0,1,0,0,26,9,9,0,44,210,1198,1408,1453,1,0,264,96.9,15.4
+1A.9,Attempt to Commit Rape,19,104,0,123,0,0,0,0,43,2,2,0,47,6,45,51,98,0,0,25,52,20.3
+1A.10,Riots,538,972,0,1510,0,0,0,6,95,26,35,0,162,189,591,780,942,3,9,565,82.8,37.4
+1A.11,Robbery,38,55,0,93,0,0,0,0,7,0,1,0,8,10,34,44,52,1,1,40,84.6,43
+1A.12,Dacoity,11,9,0,20,0,0,0,0,0,0,1,0,1,2,4,6,7,0,0,13,85.7,65
+1A.12A,Dacoity with Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1A.12B,Dacoity,11,9,0,20,0,0,0,0,0,0,1,0,1,2,4,6,7,0,0,13,85.7,65
+1A.13,Arson,82,167,0,249,0,0,0,0,7,3,10,0,20,36,99,135,155,0,0,94,87.1,37.8
+1A.14,Criminal Intimidation,1111,5274,0,6385,0,3,0,1,470,75,192,0,738,574,3924,4498,5239,16,21,1130,85.9,17.7
+1A.15,Other IPC crimes,3856,14782,5,18643,1,50,0,29,3251,556,676,2,4514,1769,8497,10266,14831,12,13,3800,69.2,20.4
+1B,SC / ST (Prevention of Atrocities) Act only,2139,4703,1,6843,0,3,0,21,434,245,440,7,1147,631,3158,3789,4939,13,10,1891,76.7,27.6
+1B.1,Intentionally Insult or Intimidate with Intent to Humiliate,1031,1735,1,2767,0,2,0,5,225,108,101,6,445,286,1116,1402,1849,10,3,908,75.8,32.8
+1B.2,Occupy/Disposes Land Belongs to SCs/STs,68,50,0,118,0,0,0,0,13,1,3,0,17,9,18,27,44,0,0,74,61.4,62.7
+1B.3,Prevent or deny or obstruct usage of public place/passage,26,305,0,331,0,0,0,0,2,2,94,0,98,20,203,223,321,0,0,10,69.5,3
+1B.4,Force to leave place of Residence/Social Boycott,14,15,0,29,0,0,0,0,1,0,4,0,5,1,5,6,11,0,0,18,54.5,62.1
+1B.5,Other Offences,1000,2598,0,3598,0,1,0,16,193,134,238,1,582,315,1816,2131,2714,3,7,881,78.5,24.5
+1,Total of SC/ST (Prevention of Atrocities) Act,18533,57569,338,76440,1,63,0,82,7369,1762,2207,14,11434,8198,37617,45815,57313,70,89,19057,79.9,24.9
+2,Protection of Civil Rights Act,36,13,0,49,0,1,0,0,2,0,1,0,3,7,5,12,16,0,0,33,75,67.3
+Crime/Atrocities against SCs,Crime/Atrocities against SCs,18569,57582,338,76489,1,64,0,82,7371,1762,2208,14,11437,8205,37622,45827,57329,70,89,19090,79.9,25

@@ -1,0 +1,63 @@
+Sl. No.,Crime Head,Cases Reported against Juveniles,Below 12 Years - Boys,Below 12 Years - Girls,Below 12 Years - Trans,Below 12 Years - Total,12 Years and Above and below 16 Years - Boys,12 Years and Above and below 16 Years - Girls,12 Years and Above and below 16 Years - Trans,12 Years and Above and below 16 Years - Total,16 Years and Above and below 18 Years - Boys,16 Years and Above and below 18 Years - Girls,16 Years and Above and below 18 Years - Trans,16 Years and Above and below 18 Years - Total,Total - Boys,Total - Girls,Total - Trans,Total
+1,Murder,159,0,0,0,0,53,0,0,53,198,3,0,201,251,3,0,254
+2,Culpable Homicide not amounting to Murder,3,0,0,0,0,1,0,0,1,2,0,0,2,3,0,0,3
+3,Causing Death by Negligence,53,0,0,0,0,10,2,0,12,41,0,0,41,51,2,0,53
+4,Dowry Deaths,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Abetment of Suicide,3,0,0,0,0,0,0,0,0,3,0,0,3,3,0,0,3
+6,Attempt to Commit Murder,301,0,0,0,0,113,0,0,113,465,1,0,466,578,1,0,579
+7,Attempt to commit Culpable Homicide,53,0,0,0,0,21,0,0,21,52,0,0,52,73,0,0,73
+8,Attempt to Commit Suicide,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,"Miscarriage, Infanticide, Foeticide and Abandonment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Hurt,790,0,0,0,0,197,0,0,197,877,3,0,880,1074,3,0,1077
+11,Wrongful Restraint/Confinement,1,0,0,0,0,0,0,0,0,2,0,0,2,2,0,0,2
+12,Assault on Women with Intent to Outrage her Modesty,133,0,0,0,0,28,0,0,28,130,0,0,130,158,0,0,158
+13,Kidnapping and Abduction,63,0,0,0,0,10,0,0,10,59,1,0,60,69,1,0,70
+14,Human Trafficking,4,0,0,0,0,0,0,0,0,4,0,0,4,4,0,0,4
+15,Exploitation of Trafficked Person,2,0,0,0,0,0,0,0,0,2,0,0,2,2,0,0,2
+16,Selling of Minors for Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Buying of Minors for Prostitution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Rape,166,2,0,0,2,37,0,0,37,146,2,0,148,185,2,0,187
+19,Attempt to Commit Rape,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+20,Unnatural Offences,12,0,0,0,0,14,0,0,14,8,0,0,8,22,0,0,22
+Offences Affecting the Human Body (Total),Offences Affecting the Human Body (Total),1744,2,0,0,2,484,2,0,486,1990,10,0,2000,2476,12,0,2488
+21,Offences against State,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences against the State (Total),Offences against the State (Total),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Unlawful Assembly,8,0,0,0,0,0,0,0,0,10,0,0,10,10,0,0,10
+23,Riots,41,0,0,0,0,19,0,0,19,87,0,0,87,106,0,0,106
+24,Offences promoting enmity between different groups,3,0,0,0,0,4,0,0,4,10,0,0,10,14,0,0,14
+25,Affray,3,0,0,0,0,2,0,0,2,4,0,0,4,6,0,0,6
+Offences against Public Tranquillity (Total),Offences against Public Tranquillity (Total),55,0,0,0,0,25,0,0,25,111,0,0,111,136,0,0,136
+26,Theft,1774,5,0,0,5,496,0,0,496,1679,0,0,1679,2180,0,0,2180
+27,Burglary,330,3,0,0,3,95,1,0,96,355,0,0,355,453,1,0,454
+28,Extortion and Blackmailing,16,0,0,0,0,4,0,0,4,25,0,0,25,29,0,0,29
+29,Robbery,415,0,0,0,0,118,0,0,118,466,1,0,467,584,1,0,585
+30,Attempt to Commit Dacoity/Robbery,3,0,0,0,0,0,0,0,0,4,0,0,4,4,0,0,4
+31,Dacoity,18,0,0,0,0,6,0,0,6,25,0,0,25,31,0,0,31
+32,Making Preparation and Assembly for committing Dacoity,22,0,0,0,0,0,0,0,0,34,0,0,34,34,0,0,34
+33,Criminal Misappropriation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Criminal Breach of Trust,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Dishonestly Receiving/Dealing-in Stolen Property,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences against Property (Total),Offences against Property (Total),2578,8,0,0,8,719,1,0,720,2588,1,0,2589,3315,2,0,3317
+36,Counterfeiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,"Forgery, Cheating and Fraud",29,0,0,0,0,6,0,0,6,24,0,0,24,30,0,0,30
+Offences Relating to Documents and Property Marks (Total),Offences Relating to Documents and Property Marks (Total),29,0,0,0,0,6,0,0,6,24,0,0,24,30,0,0,30
+38,Offences relating to Elections,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Disobedience to order duly promulgated by Public Servant,10,0,0,0,0,2,0,0,2,8,0,0,8,10,0,0,10
+40,Harbouring an Offender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Offences relating to Adulteration or Sale of Food/Drugs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Rash Driving on Public way,144,3,0,0,3,34,0,0,34,111,0,0,111,148,0,0,148
+43,Obstruction on Public way,3,0,0,0,0,0,0,0,0,3,0,0,3,3,0,0,3
+44,Sale of obscene Books/Objects,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Obscene Acts and Songs at Public Places,7,0,0,0,0,5,0,0,5,7,0,0,7,12,0,0,12
+46,Offences relating to Religion,3,0,0,0,0,0,0,0,0,5,0,0,5,5,0,0,5
+47,Cheating by Impersonation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Offences related to Mischief,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Arson,4,0,0,0,0,1,0,0,1,3,0,0,3,4,0,0,4
+50,Criminal Trespass,11,0,0,0,0,1,0,0,1,11,0,0,11,12,0,0,12
+51,Cruelty by Husband or his Relatives,1,0,0,0,0,0,0,0,0,2,0,0,2,2,0,0,2
+52,Circulate False/Fake News/Rumours,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+53,Criminal Intimidation,61,0,0,0,0,11,0,0,11,64,0,0,64,75,0,0,75
+54,Insult to the Modesty of Women,11,0,0,0,0,4,0,0,4,8,0,0,8,12,0,0,12
+Miscellaneous IPC Crimes(Total),Miscellaneous IPC Crimes(Total),256,3,0,0,3,58,0,0,58,223,0,0,223,284,0,0,284
+55,Other IPC crimes,188,1,0,0,1,51,0,0,51,190,1,0,191,242,1,0,243
+Total Cognizable IPC crimes,Total Cognizable IPC crimes,4850,14,0,0,14,1343,3,0,1346,5126,12,0,5138,6483,15,0,6498

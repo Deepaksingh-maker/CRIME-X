@@ -1,0 +1,20 @@
+# CRIME X - Police Intelligence & Analytics System
+# Frozen Requirements for Python 3.13 / System Environment
+
+streamlit>=1.42.0
+streamlit-folium>=0.23.0
+folium>=0.20.0
+pandas>=2.2.0
+numpy>=2.1.0
+sqlalchemy>=2.0.0
+plotly>=6.0.0
+scikit-learn>=1.6.0
+joblib>=1.4.0
+pillow>=11.0.0
+torch>=2.6.0
+torchvision>=0.21.0
+ultralytics>=8.3.0
+pytest>=8.3.0
+python-dateutil>=2.9.0
+pyttsx3>=2.99
+gTTS>=2.5.4

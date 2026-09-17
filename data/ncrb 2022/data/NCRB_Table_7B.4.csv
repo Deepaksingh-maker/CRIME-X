@@ -1,0 +1,21 @@
+Sl. No.,City,Cases Pending Investigation from Previous Year - Col.(3),Cases Reported during the year - Col.(4),Cases Reopened for Investigation - Col.(5),Total Cases for Investigation (Col.3+Col.4+Col.5) - Col.(6),Cases Not Investigated Under 157_1_b CRPC - Col.(7),Cases Transferred to Other State or Agency - Col.(8),Cases Withdrawn by the Govt during Investigation - Col.(9),Final Report - Cases Ended as FR Non Cognizable - Col.(10),Final Report - Cases Ended as Final Report False - Col.(11),Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col.(12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col.(13),Final Report - Cases Abated during Investigation - Col.(14),Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col.(15),Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Prev. Year - Col.(16),Charge Sheets Submitted - Cases Charge sheeted Out of Cases during the year - Col.(17),Charge Sheets Submitted - Cases Charge sheeted (Col.16+Col.17) - Col.(18),Total Cases Disposed Off by Police (Col.7+8+15+18) - Col.(19),Cases Quashed at Investigation Stage - Col.(20),Cases Stayed at Investigation Stage - Col.(21),Cases Pending Invsgn.at end of the year (Col.6-9-19-20) - Col.(22),Chargesheeting Rate (Col.18/19*100) - Col.(23),Pendency Percentage (Col.22/6*100) - Col.(24)
+1,Ahmedabad (Gujarat),78,189,0,267,0,0,0,0,0,0,1,0,1,17,156,173,174,8,0,85,99.4,31.8
+2,Bengaluru (Karnataka),93,231,0,324,0,5,0,0,52,3,0,0,55,39,82,121,181,1,11,142,66.9,43.8
+3,Chennai (Tamil Nadu),34,25,0,59,0,0,0,0,0,1,1,0,2,1,3,4,6,2,0,51,66.7,86.4
+4,Coimbatore (Tamil Nadu),23,21,0,44,0,0,0,0,0,5,0,1,6,8,10,18,24,0,0,20,75,45.5
+5,Delhi City,89,129,0,218,0,0,0,0,0,13,1,0,14,32,65,97,111,0,0,107,87.4,49.1
+6,Ghaziabad (Uttar Pradesh),5,72,0,77,0,0,0,0,1,0,20,0,21,2,52,54,75,0,0,2,72,2.6
+7,Hyderabad (Telangana),111,113,0,224,0,0,0,0,0,27,18,1,46,42,50,92,138,0,0,86,66.7,38.4
+8,Indore (Madhya Pradesh),7,47,0,54,0,0,0,0,0,0,0,0,0,7,41,48,48,0,0,6,100,11.1
+9,Jaipur (Rajasthan),114,381,0,495,0,0,0,2,236,59,2,0,299,37,67,104,403,2,0,90,25.8,18.2
+10,Kanpur (Uttar Pradesh),43,376,0,419,0,0,0,0,4,0,38,0,42,33,227,260,302,0,0,117,86.1,27.9
+11,Kochi (Kerala),11,22,0,33,0,0,0,0,1,0,0,0,1,7,4,11,12,0,0,21,91.7,63.6
+12,Kolkata (West Bengal),8,10,0,18,0,0,0,0,0,0,1,0,1,7,7,14,15,0,0,3,93.3,16.7
+13,Kozhikode (Kerala),22,27,0,49,0,0,0,0,9,5,1,0,15,9,11,20,35,0,0,14,57.1,28.6
+14,Lucknow (Uttar Pradesh),173,420,0,593,0,0,0,0,0,0,55,0,55,91,260,351,406,0,0,187,86.5,31.5
+15,Mumbai (Maharashtra),183,58,0,241,0,0,0,0,5,2,4,0,11,25,19,44,55,0,0,186,80,77.2
+16,Nagpur (Maharashtra),18,35,0,53,0,0,0,0,0,0,0,1,1,12,21,33,34,0,0,19,97.1,35.8
+17,Patna (Bihar),104,96,156,356,0,0,0,0,0,0,7,0,7,82,66,148,155,0,0,201,95.5,56.5
+18,Pune (Maharashtra),28,61,0,89,0,0,0,0,2,0,2,0,4,9,28,37,41,0,0,48,90.2,53.9
+19,Surat (Gujarat),10,34,0,44,0,0,0,0,0,0,0,0,0,0,26,26,26,4,4,14,100,31.8
+Total Cities,Total Cities,1154,2347,156,3657,0,5,0,2,310,115,151,3,581,460,1195,1655,2241,17,15,1399,73.9,38.3

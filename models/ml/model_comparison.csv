@@ -1,0 +1,5 @@
+﻿model,MAE,RMSE,R2,train_rows,validation_rows,validation_method
+LinearRegression,34.144440511275484,53.590584131056566,0.9991345600057766,31,8,deterministic state holdout; not temporal
+RandomForestRegressor,393.37259395292205,1063.7004623737394,0.6590437344793734,31,8,deterministic state holdout; not temporal
+BaselineMean,889.3104838709678,1884.2655447707461,-0.0699024773501542,31,8,deterministic state holdout; not temporal
+HistGradientBoostingRegressor,889.3104838709678,1884.2655447707461,-0.0699024773501542,31,8,deterministic state holdout; not temporal

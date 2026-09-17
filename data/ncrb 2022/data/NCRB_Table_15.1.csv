@@ -1,0 +1,40 @@
+Sl. No.,State/UT,Unrecovered / Untraced Missing Children from Previous Years - Boys,Unrecovered / Untraced Missing Children from Previous Years - Girls,Unrecovered / Untraced Missing Children from Previous Years - Transgender,Unrecovered / Untraced Missing Children from Previous Years - Total,Children Missing in 2022 - Boys,Children Missing in 2022 - Girls,Children Missing in 2022 - Transgender,Children Missing in 2022 - Total,Total Children Missing - Boys,Total Children Missing - Girls,Total Children Missing - Transgender,Total Children Missing - Total,Total Recovered/ Traced in 2022 - Boys,Total Recovered/ Traced in 2022 - Girls,Total Recovered/ Traced in 2022 - Transgender,Total Recovered/ Traced in 2022 - Total,Percentage Recovery (Total Recovered or Traced/Total Missing) * 100 - Boys,Percentage Recovery (Total Recovered or Traced/Total Missing) * 100 - Girls,Percentage Recovery (Total Recovered or Traced/Total Missing) * 100 - Transgender,Percentage Recovery (Total Recovered or Traced/Total Missing) * 100 - Total,Un-recovered / Untraced Missing Children (including previous years Untraced Missing Children) - Boys,Un-recovered / Untraced Missing Children (including previous years Untraced Missing Children) - Girls,Un-recovered / Untraced Missing Children (including previous years Untraced Missing Children) - Transgender,Un-recovered / Untraced Missing Children (including previous years Untraced Missing Children) - Total
+1,Andhra Pradesh,288,474,5,767,921,3118,7,4046,1209,3592,12,4813,959,3221,12,4192,79.3,89.7,100,87.1,250,371,0,621
+2,Arunachal Pradesh,26,0,0,26,9,5,0,14,35,5,0,40,29,4,0,33,82.9,80,NA,82.5,6,1,0,7
+3,Assam,125,250,0,375,358,840,0,1198,483,1090,0,1573,332,741,0,1073,68.7,68,NA,68.2,151,349,0,500
+4,Bihar,1234,5366,0,6600,796,5204,0,6000,2030,10570,0,12600,884,4935,0,5819,43.5,46.7,NA,46.2,1146,5635,0,6781
+5,Chhattisgarh,399,1377,0,1776,667,2760,7,3434,1066,4137,7,5210,517,2851,6,3374,48.5,68.9,85.7,64.8,549,1286,1,1836
+6,Goa,18,11,0,29,16,10,0,26,34,21,0,55,14,9,0,23,41.2,42.9,NA,41.8,20,12,0,32
+7,Gujarat,165,365,0,530,551,1306,0,1857,716,1671,0,2387,494,1281,0,1775,69,76.7,NA,74.4,222,390,0,612
+8,Haryana,576,995,3,1574,1124,1516,0,2640,1700,2511,3,4214,1115,1295,0,2410,65.6,51.6,0,57.2,585,1216,3,1804
+9,Himachal Pradesh,42,46,0,88,75,296,0,371,117,342,0,459,82,297,0,379,70.1,86.8,NA,82.6,35,45,0,80
+10,Jharkhand,163,178,0,341,157,250,0,407,320,428,0,748,132,203,0,335,41.3,47.4,NA,44.8,188,225,0,413
+11,Karnataka,352,255,0,607,542,568,0,1110,894,823,0,1717,568,605,0,1173,63.5,73.5,NA,68.3,326,218,0,544
+12,Kerala,86,32,0,118,834,966,0,1800,920,998,0,1918,851,948,0,1799,92.5,95,NA,93.8,69,50,0,119
+13,Madhya Pradesh,905,2830,0,3735,2286,9066,0,11352,3191,11896,0,15087,2182,8979,0,11161,68.4,75.5,NA,74,1009,2917,0,3926
+14,Maharashtra,1136,1185,3,2324,1448,1621,0,3069,2584,2806,3,5393,1308,1493,0,2801,50.6,53.2,0,51.9,1276,1313,3,2592
+15,Manipur,17,18,0,35,29,31,0,60,46,49,0,95,27,27,0,54,58.7,55.1,NA,56.8,19,22,0,41
+16,Meghalaya,3,10,0,13,23,2,0,25,26,12,0,38,24,4,0,28,92.3,33.3,NA,73.7,2,8,0,10
+17,Mizoram,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,NA,100,NA,100,0,0,0,0
+18,Nagaland,2,2,0,4,4,37,0,41,6,39,0,45,3,36,0,39,50,92.3,NA,86.7,3,3,0,6
+19,Odisha,352,2456,0,2808,507,4250,0,4757,859,6706,0,7565,342,2386,0,2728,39.8,35.6,NA,36.1,517,4320,0,4837
+20,Punjab,1185,1309,0,2494,186,927,0,1113,1371,2236,0,3607,460,976,0,1436,33.6,43.6,NA,39.8,911,1260,0,2171
+21,Rajasthan,455,763,0,1218,1121,5073,0,6194,1576,5836,0,7412,1218,5014,0,6232,77.3,85.9,NA,84.1,358,822,0,1180
+22,Sikkim,1,2,0,3,10,6,0,16,11,8,0,19,10,6,0,16,90.9,75,NA,84.2,1,2,0,3
+23,Tamil Nadu,749,1117,1,1867,1951,5058,0,7009,2700,6175,1,8876,1821,4623,0,6444,67.4,74.9,0,72.6,879,1552,1,2432
+24,Telangana,263,391,0,654,1448,1995,0,3443,1711,2386,0,4097,1490,2098,0,3588,87.1,87.9,NA,87.6,221,288,0,509
+25,Tripura,9,19,0,28,24,102,0,126,33,121,0,154,24,100,0,124,72.7,82.6,NA,80.5,9,21,0,30
+26,Uttar Pradesh,1014,1516,0,2530,1177,2217,0,3394,2191,3733,0,5924,1352,2398,0,3750,61.7,64.2,NA,63.3,839,1335,0,2174
+27,Uttarakhand,179,129,0,308,225,425,0,650,404,554,0,958,293,481,0,774,72.5,86.8,NA,80.8,111,73,0,184
+28,West Bengal,1476,5609,0,7085,1884,10571,0,12455,3360,16180,0,19540,1777,10769,0,12546,52.9,66.6,NA,64.2,1583,5411,0,6994
+Total States,Total States,11220,26705,12,37937,18373,58221,14,76608,29593,84926,26,114545,18308,55781,18,74107,61.9,65.7,69.2,64.7,11285,29145,8,40438
+29,Andaman and Nicobar Islands,3,4,0,7,11,26,0,37,14,30,0,44,8,25,0,33,57.1,83.3,NA,75,6,5,0,11
+30,Chandigarh,153,202,0,355,35,133,0,168,188,335,0,523,35,126,0,161,18.6,37.6,NA,30.8,153,209,0,362
+31,Dadra and Nagar Haveli and Daman and Diu,4,7,0,11,4,7,0,11,8,14,0,22,1,8,0,9,12.5,57.1,NA,40.9,7,6,0,13
+32,Delhi,1771,3959,0,5730,1852,4288,10,6150,3623,8247,10,11880,1790,4042,8,5840,49.4,49,80,49.2,1833,4205,2,6040
+33,Jammu and Kashmir,228,255,0,483,91,247,0,338,319,502,0,821,101,275,0,376,31.7,54.8,NA,45.8,218,227,0,445
+34,Ladakh,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,NA,0,NA,0,0,1,0,1
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0
+36,Puducherry,0,0,0,0,14,24,0,38,14,24,0,38,11,24,0,35,78.6,100,NA,92.1,3,0,0,3
+Total UTs,Total UTs,2159,4428,0,6587,2007,4725,10,6742,4166,9153,10,13329,1946,4500,8,6454,46.7,49.2,80,48.4,2220,4653,2,6875
+Total All India,Total All India,13379,31133,12,44524,20380,62946,24,83350,33759,94079,36,127874,20254,60281,26,80561,60,64.1,72.2,63,13505,33798,10,47313

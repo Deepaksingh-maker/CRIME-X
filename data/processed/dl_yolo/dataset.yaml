@@ -1,0 +1,6 @@
+path: C:/Users/dipak/OneDrive/Desktop/college work/Data science creative/PYTHON/practical/projects/Streamlit project/CRIME X/data/processed/dl_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names: ["fire"]

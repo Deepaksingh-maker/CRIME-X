@@ -1,0 +1,25 @@
+Sl. No. - Col. (1),Age Group and Gender - Col. (2),Unrecovered Persons of Previous Years - Col. (3),Persons Missing during 2023 - Col. (4),Total Missing (Col.3 + Col.4) - Col. (5),Persons Traced - from Previous Years Missing - Col. (6),Persons Traced - from Missing Persons 2022 - Col. (7),Persons Traced - Total - Col. (8),Percentage of Persons Traced (Col.8/Col.5 * 100) - Col. (9),Persons Untraced - from Previous Years Missing - Col. (10),Persons Untraced - from Missing Persons 2022 - Col. (11),Persons Untraced - Total - Col. (12)
+1,Total Male,138568,149008,287576,34321,100444,134765,46.9,104247,48564,152811
+1.1A,Boys Below 12 Years,3423,6511,9934,1103,5014,6117,61.6,2320,1497,3817
+1.1B,Boys 12 Years - 16  Years,4247,7372,11619,1331,5867,7198,62,2916,1505,4421
+1.1C,Boys 16 Years - 18  Years,5709,6497,12206,1922,5017,6939,56.8,3787,1480,5267
+1.1,Boys/Male Children,13379,20380,33759,4356,15898,20254,60,9023,4482,13505
+1.2,Adult Male (18 Years and Above),125189,128628,253817,29965,84546,114511,45.1,95224,44082,139306
+2,Total Female,203893,293500,497393,61585,204665,266250,53.5,142308,88835,231143
+2.1A,Girls Below 12 Years,3355,6585,9940,1495,5077,6572,66.1,1860,1508,3368
+2.1B,Girls 12 Years - 16  Years,9941,21464,31405,4088,16266,20354,64.8,5853,5198,11051
+2.1C,Girls 16 Years - 18  Years,17837,34897,52734,7751,25604,33355,63.3,10086,9293,19379
+2.1,Girls/Female Children,31133,62946,94079,13334,46947,60281,64.1,17799,15999,33798
+2.2,Adult Female (18 Years and Above),172760,230554,403314,48251,157718,205969,51.1,124509,72836,197345
+3,Total Transgender,19,64,83,8,54,62,74.7,11,10,21
+3.1A,Trans Below 12 Years,5,7,12,5,5,10,83.3,0,2,2
+3.1B,Trans 12 Years - 16  Years,4,10,14,0,10,10,71.4,4,0,4
+3.1C,Trans 16 Years - 18  Years,3,7,10,0,6,6,60,3,1,4
+3.1,Trans Children,12,24,36,5,21,26,72.2,7,3,10
+3.2,Adult Transgender (18 Years and Above),7,40,47,3,33,36,76.6,4,7,11
+4,Grand Total (Male + Female+ Transgender),342480,442572,785052,95914,305163,401077,51.1,246566,137409,383975
+4.1A,Total Below 12 Years,6783,13103,19886,2603,10096,12699,63.9,4180,3007,7187
+4.1B,Total 12 Years - 16  Years,14192,28846,43038,5419,22143,27562,64,8773,6703,15476
+4.1C,Total 16 Years - 18  Years,23549,41401,64950,9673,30627,40300,62,13876,10774,24650
+4.1,Total Children,44524,83350,127874,17695,62866,80561,63,26829,20484,47313
+4.2,Total Adults (18 Years and Above),297956,359222,657178,78219,242297,320516,48.8,219737,116925,336662

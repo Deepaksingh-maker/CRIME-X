@@ -1,0 +1,7 @@
+﻿dataset,rows,columns,duplicate_rows,missing_cells,missing_required_columns,negative_numeric_values,invalid_year_values,status
+NCRB district physical crime table 1.1,970,145,0,0,,0,0,PASS
+NCRB district cybercrime table 1.9,970,52,0,0,,0,0,PASS
+Ahmedabad historical crime series,5,3,0,0,,0,0,PASS
+Ahmedabad historical crime series,5,3,0,0,,0,0,PASS
+India Fire & Smoke Dataset,,,,,,,,NOT_CSV
+NCRB district physical crime table 1.1,970,145,0,0,,0,0,PASS

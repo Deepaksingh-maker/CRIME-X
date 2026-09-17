@@ -1,0 +1,21 @@
+Sl. No.,City,Number of Juveniles whose Cases pending disposal at the beginning of the year - Col.(3),Juveniles Apprehended During the Year - Col.(4),Total Number of Juveniles Apprehended (Col. 3+4) - Col.(5),Juveniles discharged during Investigation (cases un-occurred/ quashed/ Discharged by courts) - Col.(6),Juveniles sent home after advice or admonition - Col.(7),Juveniles Sent to Special Home or Fit Institute - Col.(8),Juveniles dealt with fine - Col.(9),Juveniles awarded Imprisonment - Col.(10),Juveniles Acquitted or Discharged - Col.(11),Percentage of Juveniles held Guilty - Col.(12),Pending Disposal (Col.5-(Col.6 to Col.11)) - Col.(13)
+1,Ahmedabad (Gujarat),0,484,484,0,478,6,0,0,0,100,0
+2,Bengaluru (Karnataka),18,293,311,2,118,73,13,0,8,96.2,97
+3,Chennai (Tamil Nadu),739,742,1481,2,7,0,77,0,58,59.2,1337
+4,Coimbatore (Tamil Nadu),54,53,107,0,7,0,0,0,3,70,97
+5,Delhi City,1938,2994,4932,422,1735,729,61,4,283,89.9,1698
+6,Ghaziabad (Uttar Pradesh),0,0,0,0,0,0,0,0,0,NA,0
+7,Hyderabad (Telangana),32,301,333,0,249,59,0,0,0,100,25
+8,Indore (Madhya Pradesh),942,278,1220,0,34,189,381,45,89,87.9,482
+9,Jaipur (Rajasthan),165,337,502,0,131,203,0,0,0,100,168
+10,Kanpur (Uttar Pradesh),64,39,103,0,0,0,0,0,0,NA,103
+11,Kochi (Kerala),0,40,40,0,28,12,0,0,0,100,0
+12,Kolkata (West Bengal),36,9,45,14,12,6,2,11,0,100,0
+13,Kozhikode (Kerala),52,29,81,0,35,0,0,0,0,100,46
+14,Lucknow (Uttar Pradesh),37,0,37,0,0,0,0,0,0,NA,37
+15,Mumbai (Maharashtra),1590,454,2044,1,173,85,32,0,15,95.1,1738
+16,Nagpur (Maharashtra),317,306,623,12,355,13,0,0,14,96.3,229
+17,Patna (Bihar),234,15,249,0,0,0,0,0,0,NA,249
+18,Pune (Maharashtra),2024,529,2553,47,143,0,0,0,0,100,2363
+19,Surat (Gujarat),0,158,158,0,0,158,0,0,0,100,0
+Total Cities,Total Cities,8242,7061,15303,500,3505,1533,566,60,470,92.3,8669

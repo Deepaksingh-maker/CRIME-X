@@ -1,0 +1,21 @@
+Sl. No.,City,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Trans,Persons Arrested - Total,Persons Charge sheeted - Male,Persons Charge sheeted - Female,Persons Charge sheeted - Trans,Persons Charge sheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Trans,Persons Convicted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Trans,Persons Discharged - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Trans,Persons Acquitted - Total
+1,Ahmedabad (Gujarat),195,19,0,214,195,19,0,214,0,0,0,0,1,0,0,1,7,0,0,7
+2,Bengaluru (Karnataka),308,56,0,364,2974,154,0,3128,0,0,0,0,0,0,0,0,11,0,0,11
+3,Chennai (Tamil Nadu),95,9,0,104,42,9,0,51,5,0,0,5,0,0,0,0,11,0,0,11
+4,Coimbatore (Tamil Nadu),2,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+5,Delhi City,538,51,0,589,313,32,0,345,6,0,0,6,1,0,0,1,0,0,0,0
+6,Ghaziabad (Uttar Pradesh),104,0,0,104,97,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0
+7,Hyderabad (Telangana),407,9,0,416,1125,9,0,1134,17,2,0,19,0,0,0,0,115,19,0,134
+8,Indore (Madhya Pradesh),68,5,0,73,54,5,0,59,12,0,0,12,0,0,0,0,15,0,0,15
+9,Jaipur (Rajasthan),93,1,0,94,95,1,0,96,0,0,0,0,0,0,0,0,1,0,0,1
+10,Kanpur (Uttar Pradesh),560,0,0,560,489,0,0,489,82,0,0,82,0,0,0,0,22,0,0,22
+11,Kochi (Kerala),71,4,0,75,63,4,0,67,0,0,0,0,0,0,0,0,1,0,0,1
+12,Kolkata (West Bengal),162,0,0,162,227,0,0,227,10,0,0,10,0,0,0,0,0,0,0,0
+13,Kozhikode (Kerala),28,0,0,28,26,0,0,26,1,0,0,1,0,0,0,0,2,0,0,2
+14,Lucknow (Uttar Pradesh),865,0,0,865,566,0,0,566,0,0,0,0,0,0,0,0,0,0,0,0
+15,Mumbai (Maharashtra),777,39,0,816,494,27,0,521,7,0,0,7,1,0,0,1,19,0,0,19
+16,Nagpur (Maharashtra),65,5,0,70,61,5,0,66,1,0,0,1,0,0,0,0,6,0,0,6
+17,Patna (Bihar),649,0,0,649,651,0,0,651,0,0,0,0,0,0,0,0,0,0,0,0
+18,Pune (Maharashtra),177,6,0,183,75,1,0,76,0,0,0,0,0,0,0,0,0,0,0,0
+19,Surat (Gujarat),291,19,0,310,291,19,0,310,0,0,0,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,5455,223,0,5678,7840,285,0,8125,141,2,0,143,3,0,0,3,210,19,0,229

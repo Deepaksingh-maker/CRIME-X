@@ -1,0 +1,21 @@
+Sl. No.,City,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Transgender,Persons Arrested - Total,Persons Charge sheeted - Male,Persons Charge sheeted - Female,Persons Charge sheeted - Transgender,Persons Charge sheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Transgender,Persons Convicted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Transgender,Persons Discharged - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Transgender,Persons Acquitted - Total
+1,Ahmedabad (Gujarat),620,34,1,655,619,34,1,654,15,3,0,18,0,0,0,0,149,6,0,155
+2,Bengaluru (Karnataka),676,46,0,722,666,39,0,705,66,1,0,67,0,0,0,0,437,8,0,445
+3,Chennai (Tamil Nadu),533,53,0,586,320,25,0,345,64,3,0,67,0,0,0,0,11,1,0,12
+4,Coimbatore (Tamil Nadu),92,0,0,92,63,0,0,63,3,1,0,4,0,0,0,0,4,0,0,4
+5,Delhi City,2872,94,0,2966,2438,83,0,2521,253,7,0,260,92,2,0,94,262,9,0,271
+6,Ghaziabad (Uttar Pradesh),210,0,0,210,200,0,0,200,38,0,0,38,0,0,0,0,167,0,0,167
+7,Hyderabad (Telangana),395,0,0,395,559,0,0,559,32,0,0,32,0,0,0,0,164,0,0,164
+8,Indore (Madhya Pradesh),441,48,0,489,630,50,0,680,157,1,0,158,0,0,0,0,386,20,0,406
+9,Jaipur (Rajasthan),576,6,0,582,580,6,0,586,17,0,0,17,18,0,0,18,34,0,0,34
+10,Kanpur (Uttar Pradesh),460,0,0,460,420,0,0,420,117,0,0,117,0,0,0,0,87,0,0,87
+11,Kochi (Kerala),209,16,0,225,176,12,0,188,10,0,0,10,0,0,0,0,36,7,0,43
+12,Kolkata (West Bengal),232,0,0,232,341,0,0,341,224,0,0,224,5,0,0,5,9,0,0,9
+13,Kozhikode (Kerala),307,11,0,318,322,9,0,331,11,0,0,11,3,0,0,3,110,0,0,110
+14,Lucknow (Uttar Pradesh),360,0,0,360,352,0,0,352,0,0,0,0,0,0,0,0,0,0,0,0
+15,Mumbai (Maharashtra),1825,40,0,1865,1193,26,0,1219,125,0,0,125,11,0,0,11,374,3,0,377
+16,Nagpur (Maharashtra),443,59,0,502,432,33,3,468,63,1,0,64,0,0,0,0,201,2,0,203
+17,Patna (Bihar),294,0,0,294,239,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0
+18,Pune (Maharashtra),390,26,0,416,356,18,1,375,19,0,0,19,0,0,0,0,65,0,0,65
+19,Surat (Gujarat),312,16,0,328,312,16,0,328,1,0,0,1,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,11247,449,1,11697,10218,351,5,10574,1215,17,0,1232,129,2,0,131,2496,56,0,2552

@@ -1,0 +1,21 @@
+Sl. No.,City,Cases Pending Trial from the Previous Year - Col.(3),Cases Sent for Trial during the year - Col.(4),Total Cases for Trial (Col.3+Col.4) - Col.(5),Cases Abated by Court - Col.(6),Cases Withdrawn from Prosecution - Col.(7),Cases Compounded or Compromised - Col.(8),Cases Disposed off by Plea Bargaining - Col.(9),Cases Quashed - Col.(10),Cases Disposed off without trial (Col.6+Col.7+Col.8+Col.9+Col.10) - Col.(11),Cases Stayed or Sent to Record Room - Col.(12),Cases Convicted Out of Cases from Previous Year - Col.(13),Cases Convicted Out of Cases during the Year - Col.(14),Cases Convicted (Col.13+Col.14) - Col.(15),Cases Discharged - Col.(16),Cases Acquitted - Col.(17),Cases in which Trials were Completed (Col.15+Col.16+Col.17) - Col.(18),Cases Disposed off by Courts (Col.11+Col.18) - Col.(19),Cases Pending Trial at End of the Year (Col.5-Col.19) - Col.(20),Conviction Rate (Col.15/Col.18)*100 - Col.(21),Pendency Percentage (Col.20/Col.5)*100 - Col.(22)
+1,Ahmedabad (Gujarat),1055,173,1228,0,0,0,0,0,0,0,0,0,0,0,3,3,3,1225,0,99.8
+2,Bengaluru (Karnataka),676,121,797,0,0,0,0,4,4,0,0,0,0,0,19,19,23,774,0,97.1
+3,Chennai (Tamil Nadu),20,4,24,0,0,0,0,1,1,0,0,0,0,0,1,1,2,22,0,91.7
+4,Coimbatore (Tamil Nadu),4,18,22,1,0,0,0,0,1,0,0,0,0,0,0,0,1,21,NA,95.5
+5,Delhi City,394,97,491,0,0,0,0,2,2,1,0,0,0,2,13,15,17,474,0,96.5
+6,Ghaziabad (Uttar Pradesh),244,54,298,0,0,0,0,0,0,0,3,0,3,0,6,9,9,289,33.3,97
+7,Hyderabad (Telangana),371,92,463,0,0,0,0,2,2,0,2,0,2,0,36,38,40,423,5.3,91.4
+8,Indore (Madhya Pradesh),513,48,561,0,0,0,0,0,0,0,7,0,7,0,61,68,68,493,10.3,87.9
+9,Jaipur (Rajasthan),812,104,916,0,0,0,0,0,0,0,0,0,0,10,0,10,10,906,0,98.9
+10,Kanpur (Uttar Pradesh),1623,260,1883,0,0,0,0,0,0,0,34,0,34,0,30,64,64,1819,53.1,96.6
+11,Kochi (Kerala),153,11,164,0,0,0,0,0,0,0,0,0,0,0,1,1,1,163,0,99.4
+12,Kolkata (West Bengal),76,14,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,NA,100
+13,Kozhikode (Kerala),72,20,92,0,0,0,0,1,1,0,2,0,2,0,10,12,13,79,16.7,85.9
+14,Lucknow (Uttar Pradesh),3258,351,3609,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3609,NA,100
+15,Mumbai (Maharashtra),139,44,183,0,0,0,0,0,0,0,2,0,2,0,5,7,7,176,28.6,96.2
+16,Nagpur (Maharashtra),173,33,206,0,0,0,0,0,0,0,1,0,1,0,3,4,4,202,25,98.1
+17,Patna (Bihar),1278,148,1426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1426,NA,100
+18,Pune (Maharashtra),325,37,362,0,0,0,0,0,0,0,0,0,0,0,3,3,3,359,0,99.2
+19,Surat (Gujarat),176,26,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,202,NA,100
+Total Cities,Total Cities,11362,1655,13017,1,0,0,0,10,11,1,51,0,51,12,191,254,265,12752,20.1,98
